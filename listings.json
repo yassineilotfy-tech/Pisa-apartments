@@ -9,7 +9,7 @@
     "zone": "Santa Marta",
     "latitude": 43.72569,
     "longitude": 10.39823,
-    "rent": null,
+    "rent": 500,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -87,7 +87,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-09-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.05,
@@ -98,8 +98,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 35,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 13 min walk to UniPi (+10) . Washing machine (+5) . Bills included (+5)",
+    "score": 55,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR500/mo (+15) . 13min walk (+10) . Washer (+5) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -112,7 +112,7 @@
     "zone": "Centro",
     "latitude": 43.70751249999999,
     "longitude": 10.4075987,
-    "rent": null,
+    "rent": 370,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -206,8 +206,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 56,
-    "score_explanation": "Private bathroom (+30) . 16 min walk to UniPi (+10) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 76,
+    "score_explanation": "Private bath (+30) . Great value EUR370/mo (+15) . 16min walk (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Bills incl (+5) . 3 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -307,8 +307,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 25,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 26 min walk to UniPi (+5) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "score": 30,
+    "score_explanation": "Shared bath 2.0:1 (+15) . 26min walk (+5) . Washer (+5) . 3 bedrooms (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -321,7 +321,7 @@
     "zone": "Centro",
     "latitude": 43.7206412,
     "longitude": 10.3855249,
-    "rent": null,
+    "rent": 330,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -399,7 +399,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2024-01-22",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.83,
@@ -408,10 +408,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:46:56.271980",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_bedroom",
     "tier": "B",
-    "score": 48,
-    "score_explanation": "Private bathroom (+30) . 22 min walk to UniPi (+5) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . Great value EUR330/mo (+15) . 22min walk (+5) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5)",
     "notes": ""
   },
   {
@@ -424,7 +424,7 @@
     "zone": "Cep",
     "latitude": 43.7115368,
     "longitude": 10.3726499,
-    "rent": null,
+    "rent": 350,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -507,7 +507,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2024-10-31",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 2.99,
@@ -516,10 +516,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:47:10.482042",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_bedroom",
     "tier": "B",
-    "score": 43,
-    "score_explanation": "Private bathroom (+30) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Elevator (+2) . Bills included (+5) . Far from UniPi (36 min) (-5)",
+    "score": 58,
+    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5) . Far 36min (-5)",
     "notes": ""
   },
   {
@@ -532,7 +532,7 @@
     "zone": "Aeroporto",
     "latitude": 43.70172160000001,
     "longitude": 10.4002163,
-    "rent": null,
+    "rent": 600,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -615,7 +615,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2024-11-03",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 2.09,
@@ -626,8 +626,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 43,
-    "score_explanation": "Private bathroom (+30) . 25 min walk to UniPi (+5) . WiFi included (+3) . Bills included (+5)",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . Great value EUR600/mo (+15) . 25min walk (+5) . WiFi (+3) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -640,7 +640,7 @@
     "zone": "Porta a Lucca",
     "latitude": 43.7278552,
     "longitude": 10.398904,
-    "rent": null,
+    "rent": 400,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -718,7 +718,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2025-07-15",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.18,
@@ -729,8 +729,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 33,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 14 min walk to UniPi (+10) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 53,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR400/mo (+15) . 14min walk (+10) . Garden/balcony (+3) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -743,7 +743,7 @@
     "zone": "Centro",
     "latitude": 43.71802,
     "longitude": 10.400317,
-    "rent": null,
+    "rent": 600,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -826,7 +826,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2025-10-10",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 0.66,
@@ -837,8 +837,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 63,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . AC (+20) . 8 min walk to UniPi (+15) . Washing machine (+5) . WiFi included (+3) . Bills included (+5)",
+    "score": 83,
+    "score_explanation": "Shared bath 2.0:1 (+15) . AC (+20) . Great value EUR600/mo (+15) . 8min walk (+15) . Washer (+5) . WiFi (+3) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -851,7 +851,7 @@
     "zone": "Cep",
     "latitude": 43.71191,
     "longitude": 10.3738,
-    "rent": null,
+    "rent": 400,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -934,7 +934,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2025-10-15",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 2.89,
@@ -943,10 +943,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:48:11.321648",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_bedroom",
     "tier": "B",
-    "score": 41,
-    "score_explanation": "Private bathroom (+30) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Bills included (+5) . Far from UniPi (35 min) (-5)",
+    "score": 56,
+    "score_explanation": "Private bath (+30) . Great value EUR400/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Bills incl (+5) . Far 35min (-5)",
     "notes": ""
   },
   {
@@ -959,7 +959,7 @@
     "zone": "Porta a Lucca",
     "latitude": 43.72788,
     "longitude": 10.39901,
-    "rent": null,
+    "rent": 400,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1037,7 +1037,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2025-11-02",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.18,
@@ -1048,8 +1048,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 35,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 14 min walk to UniPi (+10) . Washing machine (+5) . Bills included (+5)",
+    "score": 55,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR400/mo (+15) . 14min walk (+10) . Washer (+5) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1062,7 +1062,7 @@
     "zone": "Centro",
     "latitude": 43.7093882,
     "longitude": 10.3988431,
-    "rent": null,
+    "rent": 600,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1144,7 +1144,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2025-12-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.36,
@@ -1155,8 +1155,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 43,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 16 min walk to UniPi (+10) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Elevator (+2) . Bills included (+5)",
+    "score": 63,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR600/mo (+15) . 16min walk (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1169,7 +1169,7 @@
     "zone": "Le Piagge",
     "latitude": 43.7074657,
     "longitude": 10.4159315,
-    "rent": null,
+    "rent": 800,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1247,7 +1247,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-01-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.49,
@@ -1258,8 +1258,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 38,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 18 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 58,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR800/mo (+15) . 18min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 3 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1272,7 +1272,7 @@
     "zone": "Centro",
     "latitude": 43.717638,
     "longitude": 10.4024678,
-    "rent": null,
+    "rent": 1400,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1354,7 +1354,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-01-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 0.51,
@@ -1365,8 +1365,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 60,
-    "score_explanation": "Private bathroom (+30) . 6 min walk to UniPi (+15) . Washing machine (+5) . WiFi included (+3) . Elevator (+2) . Bills included (+5)",
+    "score": 65,
+    "score_explanation": "Private bath (+30) . 6min walk (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1379,7 +1379,7 @@
     "zone": "Porta a Lucca",
     "latitude": 43.7252351,
     "longitude": 10.3973891,
-    "rent": null,
+    "rent": 320,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1457,7 +1457,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-01-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.07,
@@ -1468,8 +1468,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 38,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 13 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 58,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR320/mo (+15) . 13min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 3 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1482,7 +1482,7 @@
     "zone": "Porta a Lucca",
     "latitude": 43.7268097,
     "longitude": 10.3970153,
-    "rent": null,
+    "rent": 680,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1560,7 +1560,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-01-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.2,
@@ -1571,8 +1571,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 35,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 14 min walk to UniPi (+10) . Washing machine (+5) . Bills included (+5)",
+    "score": 55,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR680/mo (+15) . 14min walk (+10) . Washer (+5) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1585,7 +1585,7 @@
     "zone": "San Francesco",
     "latitude": 43.7167392,
     "longitude": 10.4085302,
-    "rent": null,
+    "rent": 420,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [],
@@ -1661,7 +1661,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-01-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 0.32,
@@ -1672,8 +1672,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 50,
-    "score_explanation": "Private bathroom (+30) . 4 min walk to UniPi (+15) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "score": 70,
+    "score_explanation": "Private bath (+30) . Great value EUR420/mo (+15) . 4min walk (+15) . Washer (+5) . 2 bedrooms (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -1686,7 +1686,7 @@
     "zone": "Le Piagge",
     "latitude": 43.7094347,
     "longitude": 10.4060024,
-    "rent": null,
+    "rent": 300,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [],
@@ -1762,7 +1762,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-01-15",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.14,
@@ -1771,10 +1771,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:50:10.530042",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_bedroom",
     "tier": "B",
-    "score": 48,
-    "score_explanation": "Private bathroom (+30) . 14 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Utilities cost unknown (risk)",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . Great value EUR300/mo (+15) . 14min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -1787,7 +1787,7 @@
     "zone": "Centro",
     "latitude": 43.7085839,
     "longitude": 10.4001036,
-    "rent": null,
+    "rent": 300,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -1865,7 +1865,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-02-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.39,
@@ -1876,8 +1876,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 41,
-    "score_explanation": "Shared bath (0.7 ppl/bath) (+15) . 17 min walk to UniPi (+10) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 61,
+    "score_explanation": "Shared bath 0.7:1 (+15) . Great value EUR300/mo (+15) . 17min walk (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Bills incl (+5) . 4 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -1890,7 +1890,7 @@
     "zone": "Le Piagge",
     "latitude": 43.7122276,
     "longitude": 10.4124608,
-    "rent": null,
+    "rent": 280,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [],
@@ -1966,7 +1966,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-02-01",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 0.89,
@@ -1977,8 +1977,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 40,
-    "score_explanation": "Private bathroom (+30) . 11 min walk to UniPi (+10) . Utilities cost unknown (risk)",
+    "score": 60,
+    "score_explanation": "Private bath (+30) . Great value EUR280/mo (+15) . 11min walk (+10) . 3 bedrooms (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -1991,7 +1991,7 @@
     "zone": "Ghezzano",
     "latitude": 43.723872,
     "longitude": 10.4344535,
-    "rent": null,
+    "rent": 350,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -2069,7 +2069,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-02-05",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 2.16,
@@ -2080,8 +2080,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 48,
-    "score_explanation": "Private bathroom (+30) . 26 min walk to UniPi (+5) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 68,
+    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . 26min walk (+5) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 4 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -2094,7 +2094,7 @@
     "zone": "Porta a Lucca",
     "latitude": 43.7271864,
     "longitude": 10.3945752,
-    "rent": null,
+    "rent": 600,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -2172,7 +2172,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-02-06",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 1.38,
@@ -2183,8 +2183,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 53,
-    "score_explanation": "Private bathroom (+30) . 17 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "score": 73,
+    "score_explanation": "Private bath (+30) . Great value EUR600/mo (+15) . 17min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 2 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -2197,7 +2197,7 @@
     "zone": "Porta a Lucca",
     "latitude": 43.7241914,
     "longitude": 10.4016202,
-    "rent": null,
+    "rent": 200,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [],
@@ -2273,7 +2273,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-02-18",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 0.74,
@@ -2282,10 +2282,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:51:25.686886",
     "last_verified": "",
-    "hard_filter_result": "PASS",
-    "tier": "S",
-    "score": 70,
-    "score_explanation": "Private bathroom (+30) . AC (+20) . 9 min walk to UniPi (+15) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "hard_filter_result": "REJECT:only_1_bedroom",
+    "tier": "A",
+    "score": 85,
+    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR200/mo (+15) . 9min walk (+15) . Washer (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -2298,7 +2298,7 @@
     "zone": "Centro",
     "latitude": 43.7147349,
     "longitude": 10.406639,
-    "rent": null,
+    "rent": 380,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [
@@ -2387,8 +2387,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 45,
-    "score_explanation": "Shared bath (1.0 ppl/bath) (+15) . 7 min walk to UniPi (+15) . Washing machine (+5) . Garden/balcony (+3) . Elevator (+2) . Bills included (+5)",
+    "score": 65,
+    "score_explanation": "Shared bath 1.0:1 (+15) . Great value EUR380/mo (+15) . 7min walk (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5) . 6 bedrooms (+5)",
     "notes": ""
   },
   {
@@ -2401,7 +2401,7 @@
     "zone": "San Martino",
     "latitude": 43.7138083,
     "longitude": 10.4036893,
-    "rent": null,
+    "rent": 250,
     "utilities_monthly": null,
     "total_monthly_cost": null,
     "bills_included": [],
@@ -2477,7 +2477,7 @@
     },
     "housemates_total": null,
     "housemates_gender": "UNKNOWN",
-    "available_from": "2026-02-28",
+    "available_from": "Now",
     "available_until": null,
     "contract_duration_months": null,
     "distance_to_unipi_km": 0.74,
@@ -2488,8 +2488,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 35,
-    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 9 min walk to UniPi (+15) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "score": 55,
+    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR250/mo (+15) . 9min walk (+15) . Washer (+5) . 5 bedrooms (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -2589,8 +2589,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 10,
-    "score_explanation": "Affordable rent (EUR600/mo) (+10)",
+    "score": 15,
+    "score_explanation": "Great value EUR600/mo (+15)",
     "notes": ""
   },
   {
@@ -2690,8 +2690,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 10,
-    "score_explanation": "Affordable rent (EUR425/mo) (+10)",
+    "score": 15,
+    "score_explanation": "Great value EUR425/mo (+15)",
     "notes": ""
   },
   {
@@ -2791,8 +2791,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 15,
-    "score_explanation": "Great value (EUR1000/mo, 66% of budget) (+15)",
+    "score": 10,
+    "score_explanation": "Good value EUR1000/mo (+10)",
     "notes": ""
   },
   {
@@ -2892,8 +2892,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 15,
-    "score_explanation": "Great value (EUR1000/mo, 66% of budget) (+15)",
+    "score": 10,
+    "score_explanation": "Good value EUR1000/mo (+10)",
     "notes": ""
   },
   {
@@ -2993,8 +2993,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 10,
-    "score_explanation": "Affordable rent (EUR500/mo) (+10)",
+    "score": 15,
+    "score_explanation": "Great value EUR500/mo (+15)",
     "notes": ""
   },
   {
@@ -3094,8 +3094,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 5,
-    "score_explanation": "Acceptable cost (+5)",
+    "score": 0,
+    "score_explanation": "No data",
     "notes": ""
   },
   {
@@ -3195,8 +3195,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 5,
-    "score_explanation": "Acceptable cost (+5)",
+    "score": 0,
+    "score_explanation": "No data",
     "notes": ""
   },
   {
@@ -3296,8 +3296,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 15,
-    "score_explanation": "Great value (EUR950/mo, 63% of budget) (+15)",
+    "score": 10,
+    "score_explanation": "Good value EUR950/mo (+10)",
     "notes": ""
   },
   {
@@ -3398,7 +3398,7 @@
     "hard_filter_result": "PASS",
     "tier": "?",
     "score": 3,
-    "score_explanation": "WiFi included (+3)",
+    "score_explanation": "WiFi (+3)",
     "notes": ""
   },
   {
@@ -3498,8 +3498,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 16,
-    "score_explanation": "Affordable rent (EUR650/mo) (+10) . WiFi included (+3) . Garden/balcony (+3)",
+    "score": 21,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3) . Garden/balcony (+3)",
     "notes": ""
   },
   {
@@ -3599,8 +3599,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 13,
-    "score_explanation": "Affordable rent (EUR670/mo) (+10) . WiFi included (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR670/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -3700,8 +3700,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 13,
-    "score_explanation": "Affordable rent (EUR690/mo) (+10) . WiFi included (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR690/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -3801,8 +3801,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 13,
-    "score_explanation": "Affordable rent (EUR690/mo) (+10) . WiFi included (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR690/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -3902,8 +3902,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 13,
-    "score_explanation": "Affordable rent (EUR790/mo) (+10) . WiFi included (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR790/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4006,7 +4006,7 @@
     "hard_filter_result": "PASS",
     "tier": "?",
     "score": 28,
-    "score_explanation": "AC (+20) . WiFi included (+3) . Bills included (+5)",
+    "score_explanation": "AC (+20) . WiFi (+3) . Bills incl (+5)",
     "notes": ""
   },
   {
@@ -4106,8 +4106,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 13,
-    "score_explanation": "Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4207,8 +4207,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "AC (+20) . Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "score": 38,
+    "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4308,8 +4308,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "AC (+20) . Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "score": 38,
+    "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4409,8 +4409,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 13,
-    "score_explanation": "Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4510,8 +4510,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "AC (+20) . Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "score": 38,
+    "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   }
 ]
