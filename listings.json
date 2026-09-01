@@ -1,0 +1,4517 @@
+[
+  {
+    "id": "06c46e16b8",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-santa-marta-59163-intero-appartamento-con-due-camere-per-studentiesse",
+    "title": "Double for 500€ in the Santa Marta area. Also available for Erasmus students.",
+    "description": "In via galluppi, a due passi da piazza dei miracoli, si affitta da subito un ampio appartamento composto da due camere, cucina abitabile, sala da pranzo e bagno. la camera 1 è ad uso singolo e la camera 2 ad uso doppio.\nil canone richiesto per le camere è di euro 350/mese con utenze escluse per la camera ad uso singolo ed euro 500/mese con utenze escluse per la camera ad uso doppio.",
+    "address": "Via galluppi 2",
+    "zone": "Santa Marta",
+    "latitude": 43.72569,
+    "longitude": 10.39823,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-09-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.05,
+    "walking_minutes_to_unipi": 13,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-96df8ca4-074c-4a59-b90a-3846fb171978.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:46:12.293345",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 35,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 13 min walk to UniPi (+10) . Washing machine (+5) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "29d9cd7466",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-le-piagge-9019-tre-camere-una-con-bagno-privato-in-appartamento-con-corte-privata-all-inclusive",
+    "title": "3 single rooms starting from 370€ (all inclusive) in the Centro area. Also available for Erasmus students.",
+    "description": " Si affittano tre camere in appartamento su due piani. La camera 1 ha il bagno privato mentre le camere 2 e 3 condividono il bagno. L'appartamento è indipendente su due piani e con due bagni.  Al piano terra si trovano l'ingresso (con scale in marmo per il primo piano), la cucina abitabile con lavastoviglie e forno a microonde che si affaccia su corte interna e la camera da letto singola con bagno privato; al primo piano si trovano due camere singole con un bagno comune ed un terrazzo coperto utilizzato come zona lavanderia in comune (per tutta la casa).  Le finestre sono nuove e dotate di zanzariere, la cucina è attrezzata con microonde e lavastoviglie. La casa è dotata di lavatrice e wi-fi.  Tutte le bollette (acqua, gas, elettricità, internet, spazzatura) e le spese condominiali sono incluse! Il riscaldamento è autonomo.  Il deposito cauzionale è di 2 mesi. - Il canone richiesto per la camera 1 con bagno privato e letto da una piazza e mezza è di euro 420/mese + euro 100/mese che comprendono tutte le spese; - Il canone richiesto per la camera 2 è di euro 370/mese + euro 100/mese che comprendono tutte le spese. - Il canone richiesto per la camera 3 è di euro 370/mese + euro 100/mese che comprendono tutte le spese.  ",
+    "address": "Via Carlo Cattaneo 113",
+    "zone": "Centro",
+    "latitude": 43.70751249999999,
+    "longitude": 10.4075987,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Condo fees",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Condo fees, Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 3,
+    "bathrooms_total": 2,
+    "bathroom_ratio": 1.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-11-07",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.34,
+    "walking_minutes_to_unipi": 16,
+    "cover_image": "https://img-cercoalloggio.s3.eu-south-1.amazonaws.com/img-15a5e133-6d94-4703-9c5f-e71610fc3e96.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:46:27.178923",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 56,
+    "score_explanation": "Private bathroom (+30) . 16 min walk to UniPi (+10) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "9b0419f8d5",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-centro-47340-camere-disponibili-per-studentiesse",
+    "title": "Camere disponibili per studenti/esse",
+    "description": " Si affittano camere singole o doppie per studenti e studentesse in un appartamento al primo piano composto da: cucina abitabile, tre camere in totale e un bagno finestrato.Le spese condominiali sono di 25 euro al mese per l'intero appartamento, quindi da dividere fra tutti gli inquilini. Le utenze sono escluse dal canone di affitto e si pagano in base ai consumi ",
+    "address": "Viale delle cascine 90",
+    "zone": "Centro",
+    "latitude": 43.7239146,
+    "longitude": 10.3821457,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.5,
+      "source": "structured:expenses",
+      "reasoning": ""
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 3,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 3 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-10-31",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 2.15,
+    "walking_minutes_to_unipi": 26,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-af6ca969-edd8-4597-b328-f5422e7a6ebb.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:46:41.916161",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 25,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 26 min walk to UniPi (+5) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "notes": ""
+  },
+  {
+    "id": "55deba2cad",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/villetta-pisa-centro-10190-camera-singola-per-ragazze-zona-ingegneria",
+    "title": "Single for 330€ in the Centro area.",
+    "description": "Si affitta in una palazzina con ingresso indipendente una camera singola per ragazze.\nnon ci sono spese condominiali, è disponibile giardino e parcheggio auto e bici.\nla casa è composta da 4 camere in totale, 2 bagni e cucina abitabile.\ndista 100 mt da ingegneria e 300 mt da piazza dei miracoli.\nil canone per la camera è di euro 330/mese con utenze escluse.\ncontratto a cedolare, le utenze sono intestate al proprietario.la casa è composta da 4 camere ,2 bagni e cucina.dista 100 mt da ingegneria e 300 da piazza dei miracoli.3285711162",
+    "address": "Via giglioli 2",
+    "zone": "Centro",
+    "latitude": 43.7206412,
+    "longitude": 10.3855249,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 1,
+    "bathrooms_total": 2,
+    "bathroom_ratio": 1.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "2 baths / 1 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2024-01-22",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.83,
+    "walking_minutes_to_unipi": 22,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-5e408c07-f607-4e9e-856a-2f137ef2f2ca.png",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:46:56.271980",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 48,
+    "score_explanation": "Private bathroom (+30) . 22 min walk to UniPi (+5) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "a11f0035ba",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-cep-49124-camera-singola",
+    "title": "Single for 350€ in the CEP area. Also available for Erasmus students.",
+    "description": "In tranquillo contesto residenziale, in un grande appartamento al quinto piano con ascensore, si affitta una camera singola. \nl'appartamento è abitato da una famiglia indiana e la camera è disponibile da subito.\nl'appartamento è composto da grande cucina con balcone, ampio soggiorno, un bagno e camere.\nil canone richiesto per la camera è di euro 350/mese + euro 50/mese che comprendono tutte le bollette e tutte le spese di condominio.",
+    "address": "Piazza donatello 19",
+    "zone": "Cep",
+    "latitude": 43.7115368,
+    "longitude": 10.3726499,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Condo fees",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Condo fees, Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 1,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "1 baths / 1 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2024-10-31",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 2.99,
+    "walking_minutes_to_unipi": 36,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-712ea59c-268f-4586-857b-0a058ccacbe4.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:47:10.482042",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 43,
+    "score_explanation": "Private bathroom (+30) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Elevator (+2) . Bills included (+5) . Far from UniPi (36 min) (-5)",
+    "notes": ""
+  },
+  {
+    "id": "04337ea566",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-aeroporto-44987-due-ampie-camere-canone-all-inclusive",
+    "title": "Double for 600€ also available as a single for 450€ in the airport area. Also available for Erasmus students.",
+    "description": " In via dell'aeroporto, in struttura di affittacamere, si affittano dal due grandi camere come singole o doppie con due bagni completi (no uso cucina). l'appartamento si trova al secondo piano.  ",
+    "address": "Via dell'aeroporto 52",
+    "zone": "Aeroporto",
+    "latitude": 43.70172160000001,
+    "longitude": 10.4002163,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Condo fees",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Condo fees, Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 3,
+    "bathroom_ratio": 0.67,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "3 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2024-11-03",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 2.09,
+    "walking_minutes_to_unipi": 25,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-fc1a3888-4358-4693-908d-fbc897900caa.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:47:25.866446",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 43,
+    "score_explanation": "Private bathroom (+30) . 25 min walk to UniPi (+5) . WiFi included (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "732b34eaa5",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-porta-a-lucca-81829-due-ampie-e-luminose-camere-singole-per-studenti",
+    "title": "2 single rooms starting from 400€ in the Porta a Lucca area.",
+    "description": " In zona Porta a Lucca, si affittano due ampie e luminose camere in appartamento al primo piano, composto da: cucina con balcone, due camere (di cui una con balcone) e un bagno. La zona è ottima, vicina ad ingegneria e matematica ed alla stazione di san rossore; ci sono tre supermercati nelle vicinanze ed è facilmente raggiungibile il centro. Il canone richiesto per le camere è di euro 400/mese, con utenze escluse. Non ci sono spese condominiali ",
+    "address": "Via monte grappa 7",
+    "zone": "Porta a Lucca",
+    "latitude": 43.7278552,
+    "longitude": 10.398904,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2025-07-15",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.18,
+    "walking_minutes_to_unipi": 14,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-5d982889-231a-4656-9a30-57d3655d53ec.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:47:41.080866",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 33,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 14 min walk to UniPi (+10) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "f723f56e1a",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-centro-48648-due-ampie-camere-singole-o-doppie-all-inclusive-per-affitti-brevi-in-centro",
+    "title": "Double for 600€ also available as a single for 450€ in the Centro area. Also available for Erasmus students.",
+    "description": " Si affittano due camere singole o doppie in un moderno appartamento nel centro di Pisa. L'appartamento è composto da: ingresso, due ampie camere ad uso singolo o doppio, bagno completo. non vi è la cucina ma il proprietario è disponibile a dotare l'appartamento di forno a microonde o simili. Il canone richiesto per le camere è di euro 450/mese all inclusive per camera singola o di euro 600/mese all inclusive per camera doppia. sono incluse tutte le spese ",
+    "address": "Via tavoleria 35",
+    "zone": "Centro",
+    "latitude": 43.71802,
+    "longitude": 10.400317,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Condo fees",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Condo fees, Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:climate",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2025-10-10",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.66,
+    "walking_minutes_to_unipi": 8,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-8418122a-b7a7-4055-a808-021c11a084a0.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:47:56.386303",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 63,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . AC (+20) . 8 min walk to UniPi (+15) . Washing machine (+5) . WiFi included (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "d618003f63",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-cep-86033-ampia-camera-con-cucina-privata-disponibile-per-ragazze",
+    "title": "Single for 400€ in the CEP area. Also available for Erasmus students.",
+    "description": " In zona cep, ben collegata con il centro di pisa, si affitta un'ampia camera con cucina privata. l'appartamento al secondo piano è composto da: grande soggiorno con balcone, bagno, cucina privata della proprietaria con lavatrice e secondo balcone e camera della proprietaria. nell'appartamento vive solo la proprietaria 4e la camera è disponibile per studentesse o lavoratrici. e' disponibile un posto scooter o bici riservato. il canone richiesto è di euro 400/mese + euro 50/mese che comprendono tutte le spese condominiali e tutte le bollette. deposito cauzionale di 800 euro ",
+    "address": "Via rossini 3",
+    "zone": "Cep",
+    "latitude": 43.71191,
+    "longitude": 10.3738,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Condo fees",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Condo fees, Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 1,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "1 baths / 1 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2025-10-15",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 2.89,
+    "walking_minutes_to_unipi": 35,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-b7e36f4c-288f-49a2-9f52-891010dc69bf.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:48:11.321648",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 41,
+    "score_explanation": "Private bathroom (+30) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Bills included (+5) . Far from UniPi (35 min) (-5)",
+    "notes": ""
+  },
+  {
+    "id": "62677444b3",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-porta-a-lucca-96516-camera-singola-per-studenti-libera-da-subito",
+    "title": "2 single rooms starting from 400€ in the Porta a Lucca area.",
+    "description": "In zona porta a lucca, si affitta per studenti un’ampia camera singola con letto matrimoniale dal 1 aprile 2024.\nl'appartamento si trova al secondo piano ed è composto da: cucina, due camere singole e un bagno.\nla zona è ottima, vicina ad ingegneria e matematica ed alla stazione di san rossore; ci sono tre supermercati nelle vicinanze ed è facilmente raggiungibile il centro.\nil canone richiesto per la camera è di euro 400/mese, con utenze escluse. non ci sono spese condominiali",
+    "address": "Via monte grappa 7",
+    "zone": "Porta a Lucca",
+    "latitude": 43.72788,
+    "longitude": 10.39901,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2025-11-02",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.18,
+    "walking_minutes_to_unipi": 14,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-d025fab0-6960-4839-85fe-be16ec58bb95.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:48:25.994627",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 35,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 14 min walk to UniPi (+10) . Washing machine (+5) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "d9dfe3bab8",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-centro-57782-camere-in-affitto-in-centro",
+    "title": "2 double rooms starting from 600€ in the Centro area. Also available for Erasmus students.",
+    "description": " Il condominio si trova a 1 minuto dalla Stazione Centrale e da Corso Italia, la principale via pedonale commerciale della città. Nelle vicinanze si trovano tutti i servizi, supermercato, panifici, take away, Tabacchi, Stazione centrale, bar, minimarket aperto fino a tardi la notte.   Si trova a 1 min da Corso Italia e 1 min dalla Stazione Centrale in un edificio decoroso, al 4° piano con ascensore. L'appartamento è composto da:  - 3 camere  - 1 bagno  - cucina attrezzata con ampio balcone   - ripostiglio  Tutte le camere affacciano su una chiostra, quindi non si sente il traffico cittadino e le finestre sono dotate di zanzariere.  Importo TUTTO INCLUSO da concordare in base alla durata del periodo   -Condominio, inclusl il riscaldamento,  - Utenze (acqua, luce e gas cucina),  - Wi-Fi.  - TARI   - Biancheria (lenzuola, piumino, asciugamani )   Cerchiamo coinquilini amichevoli e rispettosi, studenti o lavoratori, preferibilmente non fumatore.   ",
+    "address": "Viale gramsci 14a",
+    "zone": "Centro",
+    "latitude": 43.7093882,
+    "longitude": 10.3988431,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2025-12-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.36,
+    "walking_minutes_to_unipi": 16,
+    "cover_image": "https://cercoalloggio-reas.s3-eu-west-1.amazonaws.com/e6f1f538-4393-4be0-93e0-48e5ea038798.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:48:41.575654",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 43,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 16 min walk to UniPi (+10) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Elevator (+2) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "56f77dc05e",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-le-piagge-47610-appartamento-per-studentiesse",
+    "title": "Entire apartment with 3 bedrooms for 800€ in the Le Piagge area.",
+    "description": "Si affittano tre camere singole in zona piagge  a gruppi di tre, la proprietà è ben arredata, a breve distanza dal polo piagge, dalle facoltà di economia e veterinaria. ideale e comodo anche per spostarsi in centro e a pochi passi si possono trovare negozi per varie esigenze.\nil canone per l'intero appartamento è di euro 800/mese, oneri condominiali inclusi.\nle utenze domestiche sono escluse.",
+    "address": "Via masaccio 16",
+    "zone": "Le Piagge",
+    "latitude": 43.7074657,
+    "longitude": 10.4159315,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 3,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 3 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-01-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.49,
+    "walking_minutes_to_unipi": 18,
+    "cover_image": "https://cercoalloggio-reas.s3-eu-west-1.amazonaws.com/b2571af3-77b6-4efe-badd-59bacb161063.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:48:56.233861",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 38,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 18 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "c0bd7152d5",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/trilocale-pisa-centro-3451-appartamento-con-2-grandi-camere-in-pieno-centro-storico",
+    "title": "Entire apartment with 2 bedrooms for 1400€ in the Centro area. Also available for Erasmus students.",
+    "description": " In borgo largo, pieno centro storico di pisa, si affitta da marzo a student/essei (anche erasmus) appartamento al secondo piano di un condominio con ascensore e parcheggio bici interno comune, a due passi dalle maggiori facoltà universitarie della città. La proprietà presenta due ampie e luminose camere da letto affittabili sia come singole sia come doppie, 2 bagni e un cucinotto con piano cottura a induzione. Il canone per l'intero appartamento è di 1300 euro al mese tutto incluso ( condominio, luce, acqua, gas, rifiuti e wifi). ",
+    "address": "Largo ciro menotti 19",
+    "zone": "Centro",
+    "latitude": 43.717638,
+    "longitude": 10.4024678,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Water",
+      "Electricity",
+      "Heating",
+      "Rubbish",
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Water, Electricity, Heating, Rubbish, Internet"
+    },
+    "room_type": "private_room",
+    "bedrooms_total": 2,
+    "bathrooms_total": 2,
+    "bathroom_ratio": 1.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "2 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-01-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.51,
+    "walking_minutes_to_unipi": 6,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-99efd6ad-893c-4c79-b4ed-e86ae70f8d63.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:49:10.555140",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 60,
+    "score_explanation": "Private bathroom (+30) . 6 min walk to UniPi (+15) . Washing machine (+5) . WiFi included (+3) . Elevator (+2) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "84b3275cd3",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-porta-a-lucca-4478-camere-in-appartamento-a-pochi-passi-da-piazza-dei-miracoli",
+    "title": "2 single rooms starting from 320€ and 1 double room starting from 580€ in the Porta a Lucca area.",
+    "description": " Si affitta a studenti/esse o lavoratori/trici una luminosa camera singola ed un posto letto in una camera doppia al secondo piano di un appartamento a due passi da piazza dei miracoli. L'appartamento è composto da 3 camere in totale, un bagno, una cucina abitabile, un ripostiglio, corridoio ed un garage ad uso esclusivo. Recentemente ammodernato con finestre, bagno, zanzariere, caldaia e cucina nuovi. Possibilità di posto auto in corte condominiale e posti bici. il canone richiesto per la camera singola è di euro 320/mese, mentre per il posto letto nella doppia è di euro 290/mese con utenze escluse e a carico degli utenti: energia elettrica, internet, gas, acqua, tari. ",
+    "address": "Via piave 15",
+    "zone": "Porta a Lucca",
+    "latitude": 43.7252351,
+    "longitude": 10.3973891,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 3,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 3 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-01-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.07,
+    "walking_minutes_to_unipi": 13,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-9ffe78d6-6d52-45d0-8bb3-b688391e0135.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:49:25.585085",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 38,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 13 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "45ca730a98",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-porta-a-lucca-34560-camera-singola-per-ragazza",
+    "title": "Double for 680€ in the Porta a Lucca area.",
+    "description": " Camera doppia per ragazze molto grande con letti da una piazza e mezza, materassi nuovi comfort premium e mobili nuovi, in via ugo Rindi a Pisa.   Disponibile dal 1° gennaio 2026, in appartamento confortevole e comodo per la maggior parte delle facoltà universitarie e al centro città; tra le migliori posizioni della città.   L'appartamento, situato al secondo e ultimo piano di un condominio molto tranquillo è composto dalla doppia in oggetto e da una singola, per un totale di tre ragazze. Completano l'appartamento una cucina/zona giorno attrezzata, con ripostiglio, un bagno grande e una cantina per ricovero bici. Parquet in tutto l'appartamento, infissi in pvc insonorizzanti con vetro camera e zanzariere in tutto l'appartamento. Nuova caldaia a condensazione per riscaldamento e acqua sanitaria.   Il canone richiesto per il posto in camera doppia è di euro 325/mese + euro 45/mese di spese condominiali ed acqua appartamento. Contratto regolare.  Sono escluse dal canone le altre utenze. ",
+    "address": "Via ugo rindi 25",
+    "zone": "Porta a Lucca",
+    "latitude": 43.7268097,
+    "longitude": 10.3970153,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-01-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.2,
+    "walking_minutes_to_unipi": 14,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-6d28d247-267d-4227-a507-4a2115e1c279.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:49:40.375462",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 35,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 14 min walk to UniPi (+10) . Washing machine (+5) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "77a451214f",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-san-francesco-85917-camere-in-ampio-appartamento",
+    "title": "Single for 420€ in the San Francesco area.",
+    "description": " Pisa San Francesco Tribunale: 2 Stanze Singole con letto matrimoniale in appartamento di pregio in zona tranquilla a 5-10 minuti a piedi dal centro storico e dalle principali facoltà (Economia e Commercio, Veterinaria, Agraria, Legge etc.. . ) recentemente ristrutturato al piano terra rialzato. L'appartamento è costituito di cucina soggiorno dotata di tutti i moderni comfort (forno, lavastoviglie, frigorifero, freezer etc. ), due bagni e ripostiglio dotato di lavasciuga, 5 camere singole di cui le due disponibili, una libera fin da subito l’altra si dal 1° di Gennaio 2026. Si ricerca esclusivamente studenti universitari con un periodo di permanenza di almeno 1-2 anni. Non disponibile ad affittare senza visita. Contratto di affitto con cedolare secca. - Camera con letto matrimoniale: Canone €450/mese + €10/mese di spese condominiali. Il resto delle utenze rimangono escluse. - Camera con letto singolo: Canone €420/mese + €10/mese di spese condominiali. Il resto delle utenze rimangono escluse. ",
+    "address": "Via del Giardino 1",
+    "zone": "San Francesco",
+    "latitude": 43.7167392,
+    "longitude": 10.4085302,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.5,
+      "source": "structured:expenses",
+      "reasoning": ""
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 2,
+    "bathroom_ratio": 1.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "2 baths / 2 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-01-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.32,
+    "walking_minutes_to_unipi": 4,
+    "cover_image": "https://img-cercoalloggio.s3.eu-south-1.amazonaws.com/img-76146fc3-7d59-4ab6-b321-36af5d23fab7.png",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:49:56.064380",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 50,
+    "score_explanation": "Private bathroom (+30) . 4 min walk to UniPi (+15) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "notes": ""
+  },
+  {
+    "id": "32b81c78ed",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-le-piagge-17307-ampia-stanza-singola-in-zona-porta-fiorentina",
+    "title": "Single for 300€ in the Le Piagge area. Pets allowed.",
+    "description": " Affittasi ampia camera singola con letto singolo in appartamento luminoso e confortevole ristrutturato recentemente e composto da 3 camere singole, due delle quali già affittate a studenti, disponibile nell'appartamento un ripostiglio ed al piano terra una cantinetta privata per deposito di bici. l’appartamento dista 10 minuti dal polo piagge, comodo quindi per gli studenti di economia, giurisprudenza, agraria e veterinaria, dal centro: piazza vittorio emanuele ii, corso italia e stazione fs. ben servito sia da mezzi pubblici che da servizi : supermercato, farmacia ed altri negozi per qualunque esigenza. comprensive del consumo di acqua, le utenze sono a parte. riscaldamento autonomo con caldaia a gas a condensazione ad elevato risparmio energetico il contratto è esente da oneri di registrazione e rinnovo. Il canone è di €300/mese + €55/mese per le spese condominiali che includono l'acqua. Il deposito cauzionale è di €700. Il resto delle utenze rimangono escluse ed ammontano a ltri costi: Tari  circa 15€ al mese. Luce-gas circa 35€ al mese,  controllo annuale caldaia a gas 3€ al mese.  ",
+    "address": "Via fiorentina 77",
+    "zone": "Le Piagge",
+    "latitude": 43.7094347,
+    "longitude": 10.4060024,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.5,
+      "source": "structured:expenses",
+      "reasoning": ""
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 1,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "1 baths / 1 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-01-15",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.14,
+    "walking_minutes_to_unipi": 14,
+    "cover_image": "https://cercoalloggio-reas.s3-eu-west-1.amazonaws.com/ef9871c3-8e77-442c-a210-3f2b9d1519e4.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:50:10.530042",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 48,
+    "score_explanation": "Private bathroom (+30) . 14 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Utilities cost unknown (risk)",
+    "notes": ""
+  },
+  {
+    "id": "83a150688b",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-centro-70203-due-grandi-camere-singole-o-doppie-in-centro",
+    "title": "4 single rooms starting from 300€ in the Centro area.",
+    "description": " Si affittano due grandi camere singole o doppie, una con letto matrimoniale e una con due letti singoli, per studenti e studentesse. L'appartamento è composto da quattro camere totali, cucina abitabile, due bagni. Si trova in pieno centro e quindi in posizione ideale per spostarsi a piedi e raggiungere tutte le facoltà centrali. la camera è disponibile da subito e il canone richiesto è di euro 300/mese, utenze escluse, per le camere singole e euro 400/mese, utenze escluse, per le camere doppie ",
+    "address": "Via filippo corridoni 94",
+    "zone": "Centro",
+    "latitude": 43.7085839,
+    "longitude": 10.4001036,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Internet"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Internet"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 4,
+    "bathrooms_total": 3,
+    "bathroom_ratio": 0.67,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "3 baths / 4 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:internetType",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-02-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.39,
+    "walking_minutes_to_unipi": 17,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-1cb7dd90-9703-4dc8-97b2-16988136efac.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:50:25.605202",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 41,
+    "score_explanation": "Shared bath (0.7 ppl/bath) (+15) . 17 min walk to UniPi (+10) . Washing machine (+5) . WiFi included (+3) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "a5a5053bf0",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-le-piagge-85060-camere-anche-con-bagno-privato-a-le-piagge",
+    "title": "2 single rooms starting from 280€ in the Le Piagge area. Also available for Erasmus students.",
+    "description": " Si affittano camere, di cui una con bagno privato, in via del Borghetto, di fronte al dipartiemnto di Economia, Agraria, Veterianria, ecc. La camera con bagno privato si trova all'interno di appartamento al piano terra, con cucina in comune con altri coinquilini. La camera può essere affittata come singola o come doppia.  Il canone richiesto per la camera con bagno privato come singola è di euro € 450,00 al mese +120,00 euro al mese che comprendono tutte le spese di utenze e spese condominiali. Il canone richiesto per la camera con bagno privato come doppia è di euro € 550,00 al mese +120,00 euro a persona al mese che comprendono tutte le spese di utenze e spese condominiali. Il canone richiesto per la camera n. 2 come singola è di € 350,00 al mese +120,00 euro a persona al mese che comprendono tutte le spese di utenze e spese condominiali. il canone richiesto per la camera n. 2 come doppia è di € 400,00 al mese +120,00 euro a persona al mese che comprendono tutte le spese di utenze e spese condominiali.  ",
+    "address": "Via del Borghetto 79",
+    "zone": "Le Piagge",
+    "latitude": 43.7122276,
+    "longitude": 10.4124608,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.5,
+      "source": "structured:expenses",
+      "reasoning": ""
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 3,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-02-01",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.89,
+    "walking_minutes_to_unipi": 11,
+    "cover_image": "https://img-cercoalloggio.s3.eu-south-1.amazonaws.com/img-8561cfcd-c95c-476c-a575-0c53de2c6c29.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:50:40.031201",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 40,
+    "score_explanation": "Private bathroom (+30) . 11 min walk to UniPi (+10) . Utilities cost unknown (risk)",
+    "notes": ""
+  },
+  {
+    "id": "9b3e6501cf",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-ghezzano-39405-ampie-camere-disponibili-in-villetta",
+    "title": "2 single rooms starting from 350€ in the Ghezzano area. Also available for Erasmus students.",
+    "description": " In zona ghezzano, vicino al CNR, si affittano grandi camere singole o doppie.  Le camere sono disponibili per studenti, ricercatori, dottorandi e lavoratori. La villetta con giardino è appena stata ristrutturata ed imbiancata, gli arredi e gli elettrodomestici sono nuovi. E' composta da: quattro camere in totale e tre bagni, cucina spaziosa e luminosa dotata di lavastoviglie e microonde, terrazza abitabile, bagno con box doccia, garage con lavatrice e posto per biciclette, giardino. Due camere hanno il bagno privato mentre le altre due camere ne condividono uno molto grande.  Parcheggio auto in strada o nelle immediate vicinanze della casa. servizi: fermata autobus davanti casa. supermercato 500 m. - bar 200 m.- centro 2 km.  Non ci sono spese condominiali, sono escluse le utenze dal canone di affitto ",
+    "address": "Via C. Goldoni 3",
+    "zone": "Ghezzano",
+    "latitude": 43.723872,
+    "longitude": 10.4344535,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 4,
+    "bathrooms_total": 3,
+    "bathroom_ratio": 0.67,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-02-05",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 2.16,
+    "walking_minutes_to_unipi": 26,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-305365fd-5f5a-4c59-8a6d-0a411d5b5f20.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:50:54.370940",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 48,
+    "score_explanation": "Private bathroom (+30) . 26 min walk to UniPi (+5) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "ef1ff41a37",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-porta-a-lucca-82512-camere-nei-pressi-di-piazza-dei-miracoli",
+    "title": "Double for 600€ also available as a single for 550€ in the Porta a Lucca area.",
+    "description": " A pochi minuti da piazza dei miracoli, si affitta un'ampia camera con letto matrimoniale in villetta indipendente su tre piani. la casa è stata completamente ristrutturata nel 2022 e presenta tutti gli infissi esterni nuovissimi (comprese zanzariere), termoautonomo classe energetica a+, fotovoltaici (che rendono le utenze esigue). la casa è composta al piano terra da ampia e moderna cucina abitabile con lavastoviglie, ripostiglio, tv 42\" ed una camera matrimoniale con bagno privato (attualmente occupata da due studentesse italiane; al primo piano grande soggiorno dotato di divano a 3 posti, poltrona singola, tv da 42”, e una camera singola attualmente occupata da 1 ragazzo ed il secondo bagno; al secondo piano la camera singola o doppia molto spaziosa disponibile da febbraio 2024, dotata di un armadio a 6 ante e armadio a muro. ogni camera è dotata di termosifone e condizionatori (freddo/caldo). all'esterno della villetta è disponibile il giardino privato con piccolo orto, gazebo, area barbecue e zona relax + 20mq di garage/deposito con lavatrice ed asciugatrice ed un secondo frigorifero. il canone richiesto per la camera come singola è di euro 450/mese con utenze escluse ma modiche; il canone richiesto per la camera come doppia è di euro 500/mese con utenze escluse ma modiche. ",
+    "address": "Via ugo rindi 45",
+    "zone": "Porta a Lucca",
+    "latitude": 43.7271864,
+    "longitude": 10.3945752,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 2,
+    "bathrooms_total": 2,
+    "bathroom_ratio": 1.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-02-06",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 1.38,
+    "walking_minutes_to_unipi": 17,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-99897218-8176-4c00-bb9f-2f7b070a02fc.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:51:10.150331",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "B",
+    "score": 53,
+    "score_explanation": "Private bathroom (+30) . 17 min walk to UniPi (+10) . Washing machine (+5) . Garden/balcony (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "a182277929",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-porta-a-lucca-11880-camera-in-zona-porta-a-lucca",
+    "title": "Single for 200€ in the Porta a Lucca area.",
+    "description": " Si affitta una camera singola in zona porta alucca, l'appartamento è al primo piano ed il canone richiesto è di €200/mese + €70/mese per le spese condominiali e per le utenze.   ",
+    "address": "Via Santo Stefano 4",
+    "zone": "Porta a Lucca",
+    "latitude": 43.7241914,
+    "longitude": 10.4016202,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.5,
+      "source": "structured:expenses",
+      "reasoning": ""
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 1,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.75,
+      "source": "inferred:bathrooms>=bedrooms",
+      "reasoning": "1 baths / 1 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:climate",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-02-18",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.74,
+    "walking_minutes_to_unipi": 9,
+    "cover_image": "https://img-cercoalloggio.s3.eu-south-1.amazonaws.com/img-1b7bc568-39a3-43ce-a2c8-59eb18748ab1.jpeg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:51:25.686886",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "S",
+    "score": 70,
+    "score_explanation": "Private bathroom (+30) . AC (+20) . 9 min walk to UniPi (+15) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "notes": ""
+  },
+  {
+    "id": "94b2a5bfe6",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/appartamento-pisa-centro-85658-camere-singole-disponibili-in-lungarno-mediceo",
+    "title": "4 single rooms starting from 380€ in the Centro area.",
+    "description": " In centro storico, nella prestigiosa area dei Lungarni, a pochi minuti da tutte le facoltà della città e nel centro della città, si affittano a studenti/studentesse camere singole. L'appartamento al secondo piano (con ascensore) è composto da: cucina abitabile, sei camere totali e due bagni. Il canone per le camere sono:  camera 1 : 380 euro al mese  camere 2 e 3: 400 euro al mese  camera 4: 290 euro al mese  camera 5: 380 euro al mese  camera 6: 390 euro al mese  Sono escluse le utenze e le spese condominiali ",
+    "address": "Lungarno mediceo 36",
+    "zone": "Centro",
+    "latitude": 43.7147349,
+    "longitude": 10.406639,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "Condo fees"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:expenses",
+      "reasoning": "Included: Condo fees"
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 6,
+    "bathrooms_total": 2,
+    "bathroom_ratio": 1.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "2 baths / 6 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-10-26",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.56,
+    "walking_minutes_to_unipi": 7,
+    "cover_image": "https://cercoalloggio-reas.s3-eu-west-1.amazonaws.com/ec5aa8e5-055d-46b6-878d-7b687295b225.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:51:40.173199",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 45,
+    "score_explanation": "Shared bath (1.0 ppl/bath) (+15) . 7 min walk to UniPi (+15) . Washing machine (+5) . Garden/balcony (+3) . Elevator (+2) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "791ce8ee32",
+    "source": "CercoAlloggio",
+    "source_url": "https://www.cercoalloggio.com/en/property/attico-pisa-san-martino-9077-cinque-camere-singole-per-erasmus-in-centro",
+    "title": "4 single rooms starting from 250€ in the San Martino area. Also available for Erasmus students.",
+    "description": " In un antico palazzo storico del 1300, in pieno centro, al terzo piano, sono disponibili camere singole per studenti erasmus in appartamento composto da ingresso, 5 camere da letto, cucina abitabile e un bagno. al canone della stanza vanno aggiunti euro 120/mese per spese di condominio e utenze domestiche, salvo conguaglio, che comprendono: luce, acqua, gas, pulizia condominio, internet, fognatura. le spese di nettezza urbana sono a carico dell'inquilino. l'arredamente è costituito principalmente da mobili antichi.   ",
+    "address": "Via san martino 37",
+    "zone": "San Martino",
+    "latitude": 43.7138083,
+    "longitude": 10.4036893,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.5,
+      "source": "structured:expenses",
+      "reasoning": ""
+    },
+    "room_type": "entire_apartment",
+    "bedrooms_total": 5,
+    "bathrooms_total": 1,
+    "bathroom_ratio": 2.0,
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.7,
+      "source": "inferred:bathrooms<bedrooms",
+      "reasoning": "1 baths / 5 bedrooms"
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "assumed:cercoalloggio_default",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "structured:washingMac",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:elevator",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "structured:garden",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "structured:balcony",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "2026-02-28",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": 0.74,
+    "walking_minutes_to_unipi": 9,
+    "cover_image": "https://cercoalloggio-imgs.s3.eu-west-1.amazonaws.com/img-cc150533-33cb-41db-82ba-664512f1e22f.jpg",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:51:54.927508",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "C",
+    "score": 35,
+    "score_explanation": "Shared bath (2.0 ppl/bath) (+15) . 9 min walk to UniPi (+15) . Washing machine (+5) . Utilities cost unknown (risk)",
+    "notes": ""
+  },
+  {
+    "id": "6a6858a1c0",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1717304/it/Pisa/via-emilia?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "10 Apartment in Via Emilia, Pisa 5 (6) 100 m² • 3 Bedrooms €600 /month, excl. ut",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 600,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "card_text:excl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1717304/4a514182-ea2a-4c18-aac8-b65fae4d73e2.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 10,
+    "score_explanation": "Affordable rent (EUR600/mo) (+10)",
+    "notes": ""
+  },
+  {
+    "id": "4af2008bd3",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1303178/it/Pisa/via-martiri-delle-ardeatine?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "Tenant-verified 100 Private room in Via Martiri delle Ardeatine, Pisa 5 (14) 19 ",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 425,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "card_text:excl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": 1,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "1 November",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1303178/46a0e19b-a89b-45ef-82ce-0919da950998.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 10,
+    "score_explanation": "Affordable rent (EUR425/mo) (+10)",
+    "notes": ""
+  },
+  {
+    "id": "1fe69d814e",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1688538/it/Pisa/via-di-gagno?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "Flexible cancellation 8 Apartment in Via di Gagno, Pisa 5 (132) 50 m² • 1 bedroo",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 1000,
+    "utilities_monthly": null,
+    "total_monthly_cost": 1000,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "card_text:incl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "1 December",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1688538/acb47046-50ee-427b-b2c1-04085fd1cc04.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 15,
+    "score_explanation": "Great value (EUR1000/mo, 66% of budget) (+15)",
+    "notes": ""
+  },
+  {
+    "id": "0612abdce8",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1688529/it/Pisa/via-di-gagno?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "Flexible cancellation 6 Apartment in Via di Gagno, Pisa 5 (132) 50 m² • 1 bedroo",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 1000,
+    "utilities_monthly": null,
+    "total_monthly_cost": 1000,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "card_text:incl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "1 December",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1688529/5535242b-4d5a-4759-8e2a-edf23770ab98.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 15,
+    "score_explanation": "Great value (EUR1000/mo, 66% of budget) (+15)",
+    "notes": ""
+  },
+  {
+    "id": "ef33f39214",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1722608/it/Pisa/via-notari?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "Tenant-verified 14 Studio in Via Notari, Pisa 5 (1) 60 m² • Up to 2 people €500 ",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 500,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "card_text:excl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "16 December",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1722608/7944a943-b785-40f8-b203-70838c953089.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 10,
+    "score_explanation": "Affordable rent (EUR500/mo) (+10)",
+    "notes": ""
+  },
+  {
+    "id": "c5cab1e761",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1547868/it/Pisa/via-francesco-crispi?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "28 Apartment in Via Francesco Crispi, Pisa 5 (1) 50 m² • 1 bedroom €1400 /month,",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 1400,
+    "utilities_monthly": null,
+    "total_monthly_cost": 1400,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "card_text:incl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1547868/6c913831-93f8-49a7-9d7e-0e12f03d5599.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 5,
+    "score_explanation": "Acceptable cost (+5)",
+    "notes": ""
+  },
+  {
+    "id": "f595e29cd4",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1546104/it/Pisa/via-francesco-crispi?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "Tenant-verified 12 Apartment in Via Francesco Crispi, Pisa 5 (1) 50 m² • 1 bedro",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 1400,
+    "utilities_monthly": null,
+    "total_monthly_cost": 1400,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "card_text:incl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/unit_type/1546104/e595b1b6-b0ce-4849-9efc-42c64bc5e69f.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 5,
+    "score_explanation": "Acceptable cost (+5)",
+    "notes": ""
+  },
+  {
+    "id": "9641b5ec7c",
+    "source": "HousingAnywhere",
+    "source_url": "https://housinganywhere.com/room/ut1174687/it/Pisa/via-quarantola?accommodationType=PRIVATE_ROOM&furnishing=FURNISHED",
+    "title": "Flexible cancellation 34 Apartment in Via Quarantola, Pisa 5 (1) 65 m² • 2 Bedro",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 950,
+    "utilities_monthly": null,
+    "total_monthly_cost": 950,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "card_text:incl.utilities",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "search_filter:furnished=FURNISHED",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": "1 January 2027",
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "https://housinganywhere.imgix.net/room/1821434/84aeb66d-fdc8-4d69-8f1f-b21ad6c3d36e.jpg?ixlib=react-9.8.1&auto=format&fit=crop&ar=1%3A1&q=45",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:23.318209",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 15,
+    "score_explanation": "Great value (EUR950/mo, 63% of budget) (+15)",
+    "notes": ""
+  },
+  {
+    "id": "ad723c63b4",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/240023-beautiful-2-bedroom-apartment-near-the-centrale-train-station-pisa-italy",
+    "title": "Beautiful 2-bedroom apartment near the Centrale train station,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.7,
+      "source": "description:wifi mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:33.638842",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 3,
+    "score_explanation": "WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "cc335200c6",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/404060-via-paquale-galluppi-5-stanza-60-pisa-italy",
+    "title": "via Paquale Galluppi 5 - Stanza 60,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 650,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.8,
+      "source": "description:terrace",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:39.545926",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 16,
+    "score_explanation": "Affordable rent (EUR650/mo) (+10) . WiFi included (+3) . Garden/balcony (+3)",
+    "notes": ""
+  },
+  {
+    "id": "d48b734975",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/399304-via-turino-vanni-stanza-51-pisa-italy",
+    "title": "VIA TURINO VANNI - Stanza 51,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 670,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.7,
+      "source": "description:wifi mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:45.260379",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 13,
+    "score_explanation": "Affordable rent (EUR670/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "f4e6a1381c",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/399302-via-turino-vanni-stanza-49-pisa-italy",
+    "title": "VIA TURINO VANNI - Stanza 49,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 690,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.7,
+      "source": "description:wifi mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:51.060154",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 13,
+    "score_explanation": "Affordable rent (EUR690/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "42282619ae",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/496366-via-enrico-di-tedice-1-stanza-74-pisa-italy",
+    "title": "Via ENRICO DI TEDICE 1 - Stanza 74,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 690,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.7,
+      "source": "description:wifi mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:52:56.810005",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 13,
+    "score_explanation": "Affordable rent (EUR690/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "3a53481c5e",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/496368-via-enrico-di-tedice-1-stanza-76-pisa-italy",
+    "title": "Via ENRICO DI TEDICE 1 - Stanza 76,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 790,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.7,
+      "source": "description:wifi mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:02.643039",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 13,
+    "score_explanation": "Affordable rent (EUR790/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "acd4229c23",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/472261-studio-for-rent-in-pisa-bills-included-pisa-italy",
+    "title": "Studio for rent in Pisa, bills included,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": null,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [
+      "All bills"
+    ],
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:bills included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:furnished",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:air conditioning",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:08.609232",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 28,
+    "score_explanation": "AC (+20) . WiFi included (+3) . Bills included (+5)",
+    "notes": ""
+  },
+  {
+    "id": "bac90ed619",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/403586-via-san-martino-95-pisa-pisa-italy",
+    "title": "via San Martino 95, Pisa,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 650,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:furnished",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:14.399970",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 13,
+    "score_explanation": "Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "74b32b69e9",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/226264-apartment-in-via-francesco-crispi-pisa-for-50-m2-with-1-bedroom-pisa-italy",
+    "title": "Apartment in Via Francesco Crispi, Pisa for 50 m² with 1 bedroom,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 650,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:air conditioning",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:20.131135",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 33,
+    "score_explanation": "AC (+20) . Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "7db2cc717b",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/226263-appartamento-in-via-francesco-crispi-pisa-di-50-m2-con-1-camere-pisa-italy",
+    "title": "Appartamento in Via Francesco Crispi, Pisa di 50 m² con 1 camere,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 650,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:air conditioning",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:25.945204",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 33,
+    "score_explanation": "AC (+20) . Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "cb34fab939",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/226262-appartamento-in-via-francesco-crispi-pisa-di-50-m2-con-1-camere-pisa-italy",
+    "title": "Appartamento in Via Francesco Crispi, Pisa di 50 m² con 1 camere,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 650,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:31.744608",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 13,
+    "score_explanation": "Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  },
+  {
+    "id": "83a45f41e6",
+    "source": "Casita",
+    "source_url": "https://www.casita.com/student-accommodation/441742-apartment-in-viale-francesco-bonaini-pisa-for-40-m2-pisa-italy",
+    "title": "Apartment in Viale Francesco Bonaini, Pisa for 40 m²,Pisa",
+    "description": "",
+    "address": "",
+    "zone": "",
+    "latitude": null,
+    "longitude": null,
+    "rent": 650,
+    "utilities_monthly": null,
+    "total_monthly_cost": null,
+    "bills_included": [],
+    "bills_evidence": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bills not included",
+      "reasoning": ""
+    },
+    "room_type": "private_room",
+    "bedrooms_total": null,
+    "bathrooms_total": null,
+    "bathroom_ratio": null,
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:furnished",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:wifi included",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:air conditioning",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "reasoning": ""
+    },
+    "housemates_total": null,
+    "housemates_gender": "UNKNOWN",
+    "available_from": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "distance_to_unipi_km": null,
+    "walking_minutes_to_unipi": null,
+    "cover_image": "",
+    "photos": [],
+    "scraped_at": "2026-09-01T20:53:37.816096",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 33,
+    "score_explanation": "AC (+20) . Affordable rent (EUR650/mo) (+10) . WiFi included (+3)",
+    "notes": ""
+  }
+]
