@@ -4513,5 +4513,2948 @@
     "score": 38,
     "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
+  },
+  {
+    "id": "95e20c4c2f",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36692534/",
+    "title": "1/ 6 Room at Via Cardinale Pietro Maffi, 21, Santa Maria, Pisa € 590 /month 4 ro",
+    "description": "1/ 6 Room at Via Cardinale Pietro Maffi, 21, Santa Maria, Pisa € 590 /month 4 rooms 2 boys/girls You can't smoke for 8 hours A single room is available for rent in an elegant setting in the historic center of the city. This furnished apartment has a private bathroom and air conditioning/heating. Wi-Fi is available, making it ideal for short stays starting November 5th. Contact Chiama See the phone Elimina Salva",
+    "zone": "Pisa",
+    "rent": null,
+    "total_monthly_cost": null,
+    "bedrooms_total": null,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:04.378236",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 55,
+    "score_explanation": "Private bath (+30) . AC (+20) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "e5dd1ec09a",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36635656/",
+    "title": "1/ 9 Room at Lungarno Guadalongo, 5, Porta Fiorentina - Station, Pisa € 350 /mon",
+    "description": "1/ 9 Room at Lungarno Guadalongo, 5, Porta Fiorentina - Station, Pisa € 350 /month 12 rooms 9 max. You can't smoke SINGLE ROOM WITH PRIVATE BATHROOM IN RENOVATED APARTMENT The Apartment is BRAND NEW, JUST RENOVATED, furnished in a Modern Style and is composed of: 9 Single Rooms, of which 2 ROYAL SUPERIOR SUITES with Double Bed and PRIVATE BATHROOM with shower, 2 ROYAL SUITES with Double Bed and MAXI PRIVATE BATHROOM with shower, Contact Chiama See the phone Elimina Salva",
+    "zone": "Pisa",
+    "rent": null,
+    "total_monthly_cost": null,
+    "bedrooms_total": null,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:09.783394",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 68,
+    "score_explanation": "Private bath (+30) . AC (+20) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:spese incluse",
+      "reasoning": ""
+    },
+    "bills_included": [
+      "All bills"
+    ]
+  },
+  {
+    "id": "c954243063",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/19884990/",
+    "title": "1/ 5 Room at Via Porta a Mare, 31, San Piero a Grado - Porta a Mare - La Vettola",
+    "description": "1/ 5 Room at Via Porta a Mare, 31, San Piero a Grado - Porta a Mare - La Vettola, Pisa € 390 /month 3 rooms 3 boys/girls You can't smoke Posted yesterday DOUBLE ROOM FOR SINGLE USE. Shared bathroom with 1 other person. COMPLETELY RENOVATED in March 2020 and has 2 bathrooms. All rooms have air conditioning, new windows, Wi-Fi, LAN, and a TV antenna. The room is 20 square meters. All bathrooms and appliances are new. The kitchen is equipped with an oven, refrigerator, dishwasher, and washing machi",
+    "zone": "Pisa",
+    "rent": null,
+    "total_monthly_cost": null,
+    "bedrooms_total": null,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:15.010746",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 33,
+    "score_explanation": "AC (+20) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "FALSE",
+      "confidence": 0.9,
+      "source": "description:bagno in comune",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:terrazzo",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "726c1d9af7",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36640506/",
+    "title": "1/ 11 Room at Via San Michele degli Scalzi, 45, Porta a Piagge - San Michele, Pi",
+    "description": "1/ 11 Room at Via San Michele degli Scalzi, 45, Porta a Piagge - San Michele, Pisa € 400 /month 4 rooms 3 max. You can't smoke Aug 26 Affittasi stanze in appartamento ristrutturato e arredato nuovo in zona piagge\nRif. 2026201 in zona piagge con contratto a porzione d'appartamento affittasi tre stanze per studenti o lavoratori.\nl'appartamento con ingresso indipendente è composto da ingresso in sala collegata con la cucina dalla quale si accede ad un Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "Pisa",
+    "rent": null,
+    "total_monthly_cost": null,
+    "bedrooms_total": null,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:20.232436",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 55,
+    "score_explanation": "Private bath (+30) . AC (+20) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "ffa29575c3",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36427735/",
+    "title": "Camera in Via Santa Bona, 3, San Marco - Aeroporto, Pisa",
+    "description": "1/ 15 Camera in Via Santa Bona, 3, San Marco - Aeroporto, Pisa 350 €/mese 5 locali 3 ragazze Non si può fumare PISA - SAN MARCO\nSTANZA IN AFFITTO IN ZONA AEROPORTO\nIn zona centrale e strategica, comoda ai principali servizi e ottimamente collegata con i mezzi pubblici, proponiamo in locazione una stanza a uso esclusivo all'interno di un grazioso appartamento situato al primo piano di un edificio servito da ascensore.\nL'appar Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "3, San Marco - Aeroporto",
+    "rent": 350,
+    "total_monthly_cost": null,
+    "bedrooms_total": 5,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:25.540937",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 47,
+    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "8703b88d00",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36411509/",
+    "title": "Camera in Corso Italia s.n.c, Sant'Antonio, Pisa",
+    "description": "1/ 28 Camera in Corso Italia s.n.c, Sant'Antonio, Pisa 550 €/mese 4 locali 3 max. Non si può fumare CENTRO CITTA' - CORSO ITALIA: (Riferimento agenzia n°: CAM 3)\nDISPONIBILI 2 BELLE CAMERE SINGOLE CON BAGNO PRIVATO PER STUDENTESSE FEMMINE DAL 1 SETTEMBRE 2026 - In zona centralissima (Corso Italia), a due passi da tutte le facoltà dell'Università di Pisa, disponibili 2 belle e comode camere singole con bagno esclusiv Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "Sant'Antonio",
+    "rent": 550,
+    "total_monthly_cost": null,
+    "bedrooms_total": 4,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:30.832135",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 80,
+    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "e2ba67bd79",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/33125892/",
+    "title": "Camera in Viale Antonio Gramsci s.n.c, Porta Fiorentina - Stazione, Pisa",
+    "description": "1/ 36 Camera in Viale Antonio Gramsci s.n.c, Porta Fiorentina - Stazione, Pisa 480 €/mese 3 locali 2 max. Non si può fumare VIALE GRAMSCI - PISA: (Riferimento agenzia n°: CAM 10)\nDISPONIBILI DAL 1 SETTEMBRE 2026 DUE CAMERE SINGOLE PER STUDENTI MASCHI - CONTRATTO DI 12 MESI EVENTUALMENTE RINNOVABILE DI 12 MESI IN 12 MESI. In posizione centralissima, a 100 metri da Corso Italia e da tutti i negozi, proponiamo camera singola per STUDENTE MASC Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "Porta Fiorentina - Stazione",
+    "rent": 480,
+    "total_monthly_cost": null,
+    "bedrooms_total": 3,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:36.179060",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR480/mo (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:terrazzo",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "22f6497217",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36100383/",
+    "title": "Camera in Via Guglielmo Agnelli, 12, Porta a Piagge - San Michele, Pisa",
+    "description": "1/ 19 Camera in Via Guglielmo Agnelli, 12, Porta a Piagge - San Michele, Pisa 360 €/mese 5 locali 4 max. Non si può fumare Pisa - Viale delle Piagge adiacenze STANZA LIBERA DAL 1 OTTOBRE 2026\nIn bella zona residenziale, in gradevole contesto verde e tranquillo, a breve distanza dal centro, proponiamo in locazione una stanza per studenti, all'interno di un ampio e luminoso appartamento di 5 vani e accessori, giardino privato e posto auto.\nL Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "12, Porta a Piagge - San Michele",
+    "rent": 360,
+    "total_monthly_cost": null,
+    "bedrooms_total": 5,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:41.431052",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 48,
+    "score_explanation": "AC (+20) . Great value EUR360/mo (+15) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "10fb348ea8",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36377023/",
+    "title": "Camera in Via Guglielmo Agnelli, 12, Porta a Piagge - San Michele, Pisa",
+    "description": "1/ 11 Camera in Via Guglielmo Agnelli, 12, Porta a Piagge - San Michele, Pisa 360 €/mese 5 locali 4 ragazzi Non si può fumare Pisa - Viale delle Piagge adiacenze STANZA LIBERA DAL 1 OTTOBRE 2026\nIn bella zona residenziale, in gradevole contesto verde e tranquillo, a breve distanza dal centro, proponiamo in locazione una stanza per studenti, all'interno di un ampio e luminoso appartamento di 5 vani e accessori, giardino privato e posto auto.\nL Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "12, Porta a Piagge - San Michele",
+    "rent": 360,
+    "total_monthly_cost": null,
+    "bedrooms_total": 5,
+    "housemates_total": 4,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:46.666801",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 53,
+    "score_explanation": "AC (+20) . Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "2000756f03",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36625205/",
+    "title": "Camera in Via Riminaldi s.n.c, Don Bosco - Landi, Pisa",
+    "description": "1/ 29 Camera in Via Riminaldi s.n.c, Don Bosco - Landi, Pisa 400 €/mese 4 locali 3 max. Non si può fumare Appartamento in ottime condizioni, in fase di ultimazione lavori di imbiancatura, montaggio arredi e pulizia, composto da ingresso in disimpegno, cucina abitabile con balcone, ripostiglio, disimpegno notte, 3 ampie camere da letto e grande bagno con finestra. Ben arredato, dotato di condizionatori d'aria, lavatrice, cu Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "Don Bosco - Landi",
+    "rent": 400,
+    "total_monthly_cost": null,
+    "bedrooms_total": 4,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:51.870526",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR400/mo (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:balcone",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "8bde178d9f",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36637682/",
+    "title": "Camera in Via Pungilupo s.n.c, Isola Verde - Cisanello , Pisa",
+    "description": "1/ 30 Camera in Via Pungilupo s.n.c, Isola Verde - Cisanello , Pisa 500 €/mese 4 locali 3 max. Non si può fumare 26 ago ZONA CISANELLO – VIA PUNGILUPO\n3 CAMERE MATRIMONIALI IN AFFITTO – € 500 AL MESE CIASCUNA\nIn zona Cisanello, precisamente in Via Pungilupo, a pochi passi dall'Ospedale di Cisanello proponiamo in affitto 3 camere matrimoniali all’interno di un appartamento ben curato e inserito in un piacevole contesto residenziale.\nL Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "Isola Verde - Cisanello",
+    "rent": 500,
+    "total_monthly_cost": null,
+    "bedrooms_total": 4,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:30:57.072065",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 53,
+    "score_explanation": "AC (+20) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:balcone",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "5029f0511a",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36389218/",
+    "title": "Camera in Via di Oratoio Traversa C, 30, Oratoio - Sant'Ermete - Putignano, Pisa",
+    "description": "1/ 20 Camera in Via di Oratoio Traversa C, 30, Oratoio - Sant'Ermete - Putignano, Pisa 450 €/mese 3 locali 2 ragazzi Non si può fumare ORATOIO - Camera matrimoniale in grazioso appartamento con giardino e posto auto! DISPONIBILE DA META’ AGOSTO\nL’appartamento è al piano terra con giardino su due lati, composto internamente da luminoso soggiorno con angolo cottura, due camere e bagno con doccia e finestra. L’appartamento è perfetto per il personale san Contatta Chiama Vedi il telefono Elimina Sal",
+    "zone": "30, Oratoio - Sant'Ermete - Putignano",
+    "rent": 450,
+    "total_monthly_cost": null,
+    "bedrooms_total": 3,
+    "housemates_total": 2,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:02.313523",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR450/mo (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:arredato",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "e0bb3c1d5e",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36266558/",
+    "title": "Camera in Via Quarantola, 48, Porta Fiorentina - Stazione, Pisa",
+    "description": "1/ 3 Camera in Via Quarantola, 48, Porta Fiorentina - Stazione, Pisa 600 €/mese 2 locali 2 max. Non si può fumare • Ampia stanza privata con cucina completa + bagno dedicato.\n• Elettrodomestici nuovi di zecca: lavatrice, piano cottura, frigorifero e unità di condizionamento.\n• A pochi passi dalla stazione ferroviaria di Pisa Centrale.\n• Comodo accesso a trasporti pubblici, negozi, supermercati e servizi cittadini.\n• Disponibile pe Contatta Elimina Salva",
+    "zone": "48, Porta Fiorentina - Stazione",
+    "rent": 600,
+    "total_monthly_cost": null,
+    "bedrooms_total": 2,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:07.438471",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 83,
+    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR600/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 2 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "dbea1c8c68",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36550947/",
+    "title": "Camera in Via Ricucchi, 3, Santa Maria, Pisa",
+    "description": "1/ 1 Camera in Via Ricucchi, 3, Santa Maria, Pisa 500 €/mese 4 locali 3 max. Non si può fumare Zona Santa Maria (via Trento), libera da fine Settembre, in via Ricucchi, per studentesse, comodo per raggiungere tutte le Facoltà, proponiamo 3 camere in appartamento. Solo Ragazze.\nL'unità si trova al primo piano di palazzo di sole 3 unita', ha una superficie di 77 mq, è molto sileziosa ed e' in corso di complete ri Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "3, Santa Maria",
+    "rent": 500,
+    "total_monthly_cost": null,
+    "bedrooms_total": 4,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:12.773447",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 47,
+    "score_explanation": "AC (+20) . Great value EUR500/mo (+15) . Washer (+5) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "bf72ac1fce",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/34809734/",
+    "title": "Camera in Via dell'Aeroporto s.n.c, San Marco - Aeroporto, Pisa",
+    "description": "1/ 1 Camera in Via dell'Aeroporto s.n.c, San Marco - Aeroporto, Pisa 320 €/mese 5 locali 4 ragazzi/e Non si può fumare affittasi camera in Pisa, via dell'aeroporto con quattro camere da letto e due bagni, oltre agli spazi comuni; posto per bici;\n90 euro di spese accessorie comprendenti; acqua, luce, gas; spazzatura, wi-fi e controlli di legge sulla caldaia; il materasso viene messo nuovoogno qualvolta cambia l'inquilino. PER STUDENTI E Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "San Marco - Aeroporto",
+    "rent": 320,
+    "total_monthly_cost": null,
+    "bedrooms_total": 5,
+    "housemates_total": 4,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:17.980069",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 53,
+    "score_explanation": "AC (+20) . Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:terrazzo",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "d28adbb8ca",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36633496/",
+    "title": "Camera in Via Fiorentina, 50, Porta Fiorentina - Stazione, Pisa",
+    "description": "1/ 4 Camera in Via Fiorentina, 50, Porta Fiorentina - Stazione, Pisa 300 €/mese 4 locali 3 max. Non si può fumare Affittasi camera singola in appartamento al primo piano, ideale per studenti, situato in una posizione ben collegata.\nCaratteristiche dell'alloggio:\nAppartamento condiviso in totale con altre 2 persone (in camera doppia, attualmente disponibile).\nAmpio soggiorno con angolo cottura spazioso, luminoso e perfettamente ab Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "50, Porta Fiorentina - Stazione",
+    "rent": 300,
+    "total_monthly_cost": null,
+    "bedrooms_total": 4,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:23.166352",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR300/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "d678dad8de",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36633483/",
+    "title": "Camera in Via Fiorentina, 50, Porta Fiorentina - Stazione, Pisa",
+    "description": "1/ 4 Camera in Via Fiorentina, 50, Porta Fiorentina - Stazione, Pisa 200 €/mese 3 locali 3 max. Non si può fumare Affittasi camera doppia (liberi entrambi i posti letto) in appartamento al primo piano, ideale per studenti, situato in una posizione ben collegata.\nCaratteristiche dell'alloggio:\nAppartamento condiviso in totale con altre 2 persone.\nAmpio soggiorno con angolo cottura spazioso, luminoso e perfettamente abitabile.\nImpi Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "50, Porta Fiorentina - Stazione",
+    "rent": 200,
+    "total_monthly_cost": null,
+    "bedrooms_total": 3,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:28.476595",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR200/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "9016fe409f",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/35033431/",
+    "title": "1/ 5 Camera a San Marco - Aeroporto, Pisa 350 €/mese 4 locali 3 ragazzi Non si p",
+    "description": "1/ 5 Camera a San Marco - Aeroporto, Pisa 350 €/mese 4 locali 3 ragazzi Non si può fumare PISA –zona aeroporto – affitto stanza\nPisa - Zona Aeroporto -\nIn zona centrale, in condominio, si affitta una camera matrimoniale, completamente arredata. L’appartamento è dotato di ingresso, cucina abitabile e bagno a comune con altri inquilini e altre 3 camere già affittate.\nRiscaldamento condominiale\nSpese condomi Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "Pisa",
+    "rent": 350,
+    "total_monthly_cost": null,
+    "bedrooms_total": 4,
+    "housemates_total": 3,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:33.761792",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 53,
+    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "e9bf83d682",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36665979/",
+    "title": "Camera in Via San Michele degli Scalzi, 37, Porta a Piagge - San Michele, Pisa",
+    "description": "1/ 1 Camera in Via San Michele degli Scalzi, 37, Porta a Piagge - San Michele, Pisa 330 €/mese 5 locali 5 max. Non si può fumare 30 ago Stanze singole in appartamento completamente ristrutturato, disponibile da 1 ottobre 2026.\nAmpio soggiorno/cucina luminoso ed abitabile.\nRiscaldamento con pompa di calore. lavatrice, wifi, aria condizionata in camera. Posto interno per bicicletta/scooter.\nL'appartamento è situato a circa 200mt dalla Facoltà di Econom Contatta Elimina Salva",
+    "zone": "37, Porta a Piagge - San Michele",
+    "rent": 330,
+    "total_monthly_cost": null,
+    "bedrooms_total": 5,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:38.958590",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 53,
+    "score_explanation": "AC (+20) . Great value EUR330/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:terrazzo",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": [],
+    "available_from": "1 ottobre 2026"
+  },
+  {
+    "id": "2687d0dca1",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/32971222/",
+    "title": "Camera in Via Gioacchino Rossini, 7, Barbaricina, Pisa",
+    "description": "1/ 11 Camera in Via Gioacchino Rossini, 7, Barbaricina, Pisa 500 €/mese 5 locali 5 ragazze Non si può fumare VIA ROSSINI. In zona residenziale tranquilla, tutti i servizi a portata di mano. Appartamento di 100 mq situato al secondo piano di condominio composto da:\n- 5 STANZE PER STUDENTI\n- cucina abitabile con forno e lavastoviglie\n- balcone verandato fornito di pilozzo, lavatrice e stendipanni\n- termo autonomo con cronoterm Contatta Elimina Salva",
+    "zone": "7, Barbaricina",
+    "rent": 500,
+    "total_monthly_cost": null,
+    "bedrooms_total": 5,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:44.218108",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 53,
+    "score_explanation": "AC (+20) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:terrazzo",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "44050066db",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/36191944/",
+    "title": "Camera in Viale Francesco de Sanctis, 14, Gagno - Passi, Pisa",
+    "description": "1/ 6 Camera in Viale Francesco de Sanctis, 14, Gagno - Passi, Pisa 260 €/mese 3 locali 2 ragazzi/e Non si può fumare A PISA STANZA SINGOLA PER STUDENTESSA\nDisponibile per studentessa una stanza singola in via Francesco de Sanctis nel quartiere “I Passi”.\nLa stanza è arredata con un letto, un armadio grande, una cassettiera, un comodino, una scrivania e una libreria.\nNell'appartamento vi sono altre due stanze singole, un bagno, una Contatta Elimina Salva",
+    "zone": "14, Gagno - Passi",
+    "rent": 260,
+    "total_monthly_cost": null,
+    "bedrooms_total": 3,
+    "housemates_total": 2,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:49.420716",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "c93593d318",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/34965740/",
+    "title": "Camera in Via Luigi Bianchi, 64, Porta a Lucca, Pisa",
+    "description": "1/ 11 Camera in Via Luigi Bianchi, 64, Porta a Lucca, Pisa 380 €/mese 9 locali 2 ragazze Si può fumare Zona Porta a Lucca, a 250 metri dalla Torre pendente di Pisa, a due passi dal centro città, posizione perfetta per raggiungere rapidamente ogni facoltà (Medicina, Giurisprudenza, Ingegneria, Economia, Scuola Normale Superiore, Farmacia, etc), propongo casa indipendente completamente ristrutturata. Nell’ampia camera dop Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "64, Porta a Lucca",
+    "rent": 380,
+    "total_monthly_cost": null,
+    "bedrooms_total": 9,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:54.572789",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 83,
+    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR380/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 9 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "c9bfe82bf5",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/35080560/",
+    "title": "Camera in Via Luigi Bianchi, 64, Porta a Lucca, Pisa",
+    "description": "1/ 9 Camera in Via Luigi Bianchi, 64, Porta a Lucca, Pisa 550 €/mese 9 locali 6 ragazze Si può fumare Zona Porta a Lucca, a 250 metri dalla Torre pendente di Pisa, a due passi dal centro città, posizione perfetta per raggiungere rapidamente ogni facoltà (Medicina, Giurisprudenza, Ingegneria, Economia, Scuola Normale Superiore, Farmacia, etc), propongo casa indipendente completamente ristrutturata. La stanza di 15 mq co Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "64, Porta a Lucca",
+    "rent": 550,
+    "total_monthly_cost": null,
+    "bedrooms_total": 9,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:31:59.812381",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 83,
+    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 9 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "242b1780b1",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/35870117/",
+    "title": "1/ 10 Camera a San Marco - Aeroporto, Pisa 350 €/mese 3 locali 2 ragazzi Non si ",
+    "description": "1/ 10 Camera a San Marco - Aeroporto, Pisa 350 €/mese 3 locali 2 ragazzi Non si può fumare Disponibili dal 1° agosto per studenti universitari maschi due camere: una singola a 300 euro mensili + 1 singola grande a 350 euro mensili (quest’ultima disponibile anche a uso doppia, a 250 euro per ognuno dei due occupanti). L’appartamento, situato in zona s. Giusto, è composto da: due camere, 1 bagno + piccolo anti Chiama Vedi il telefono Elimina Salva",
+    "zone": "Pisa",
+    "rent": 350,
+    "total_monthly_cost": null,
+    "bedrooms_total": 3,
+    "housemates_total": 2,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:04.927905",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 47,
+    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "69fbe04017",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/25388616/",
+    "title": "Camera in Via Sant'Andrea, 59, San Francesco, Pisa",
+    "description": "1/ 8 Camera in Via Sant'Andrea, 59, San Francesco, Pisa 230 €/mese 3 locali 2 ragazze Non si può fumare Si affitta camera doppia per due studentrsse. La camera si trova in appartamento da poco ristrutturato, III piano con ascensore in edificio di pregio del centro storico; zona tranquilla vicinissima al Polo Fibonacci e a Borgo. Appartamento composto da tre camere, ampio soggiorno cucina, bagno, ripostiglio. Aria condizi Contatta Elimina Salva",
+    "zone": "59, San Francesco",
+    "rent": 230,
+    "total_monthly_cost": null,
+    "bedrooms_total": 3,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:10.167576",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 50,
+    "score_explanation": "AC (+20) . Great value EUR230/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "1259adf5a8",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/31543515/",
+    "title": "Camera in Via Amerigo Vespucci, 101, Porta Fiorentina - Stazione, Pisa",
+    "description": "1/ 6 Camera in Via Amerigo Vespucci, 101, Porta Fiorentina - Stazione, Pisa 600 €/mese 6 locali 4 ragazze Non si può fumare Libera da subito stanza matrimoniale con portafinestra su giardino privato in appartamento appena ristrutturato. La camera è molto silenziosa e luminosa, esposta a SUD e si affaccia su zona verde interna. L’ampio bagno è in condivisione solo con un'altra ragazza lavoratrice, ordinata e rispettosa degli spazi comuni.\nL Contatta Elimina Salva",
+    "zone": "101, Porta Fiorentina - Stazione",
+    "rent": 600,
+    "total_monthly_cost": null,
+    "bedrooms_total": 6,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:15.428203",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 48,
+    "score_explanation": "AC (+20) . Great value EUR600/mo (+15) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 6 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "358ce5687c",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/29998852/",
+    "title": "Camera in Via Amerigo Vespucci, 101, Porta Fiorentina - Stazione, Pisa",
+    "description": "1/ 12 Camera in Via Amerigo Vespucci, 101, Porta Fiorentina - Stazione, Pisa 700 €/mese 6 locali 4 ragazze Non si può fumare STANZA CON BAGNO PRIVATO PER RAGAZZA LAVORATRICE - ZONA STAZIONE/CORSO ITALIA\nPrivato affitta ampia stanza matrimoniale con bagno personale in appartamento appena ristrutturato, con giardino privato. La casa è composta da ampio ingresso, zona unica cucina/sala, veranda e quattro camere, di cui due stanze con un bagno i Contatta Elimina Salva",
+    "zone": "101, Porta Fiorentina - Stazione",
+    "rent": 700,
+    "total_monthly_cost": null,
+    "bedrooms_total": 6,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:20.624195",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "A",
+    "score": 78,
+    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR700/mo (+15) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 6 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:bagno privato",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:connessione a internet",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "TRUE",
+      "confidence": 0.85,
+      "source": "description:giardino",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "4fc19cfaea",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/34390290/",
+    "title": "Camera in Via Giovanni Pascoli, 3, San Martino, Pisa",
+    "description": "Senza foto Richiedi foto all'inserzionista Camera in Via Giovanni Pascoli, 3, San Martino, Pisa 350 €/mese 1 locale 2 ragazzi/e Non si può fumare Sto cercando un inquilina o inquilino chi è interessato mi contatta. Contatta Elimina Salva",
+    "zone": "3, San Martino",
+    "rent": 350,
+    "total_monthly_cost": null,
+    "bedrooms_total": null,
+    "housemates_total": 2,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:25.859377",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 42,
+    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "09ab1a32d8",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/34765249/",
+    "title": "Camera in Corso Italia, 3, San Martino, Pisa",
+    "description": "Senza foto Richiedi foto all'inserzionista Camera in Corso Italia, 3, San Martino, Pisa 330 €/mese 39 locali 2 max. Non si può fumare Chi è interessato mi contatta per qualsiasi informazione mi mandate un messaggio. Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "3, San Martino",
+    "rent": 330,
+    "total_monthly_cost": null,
+    "bedrooms_total": 39,
+    "housemates_total": null,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:31.047459",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 47,
+    "score_explanation": "AC (+20) . Great value EUR330/mo (+15) . Washer (+5) . Lift (+2) . 39 bedrooms (+5) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
+  },
+  {
+    "id": "f984f9dfcd",
+    "source": "Idealista",
+    "source_url": "https://www.idealista.it/immobile/34550184/",
+    "title": "Camera in Via Giovanni Pascoli, 1, San Martino, Pisa",
+    "description": "Senza foto Richiedi foto all'inserzionista Camera in Via Giovanni Pascoli, 1, San Martino, Pisa 350 €/mese 1 locale 2 ragazzi/e Non si può fumare Chi è interessato si prega di contattare. Contatta Chiama Vedi il telefono Elimina Salva",
+    "zone": "1, San Martino",
+    "rent": 350,
+    "total_monthly_cost": null,
+    "bedrooms_total": null,
+    "housemates_total": 2,
+    "room_type": "private_room",
+    "scraped_at": "2026-09-03T00:32:36.208288",
+    "notes": "",
+    "cover_image": "https://st3.idealista.it/static/common/img/icons/logo-default-no-margin.svg",
+    "photos": [],
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "utilities_monthly": null,
+    "bathroom_ratio": null,
+    "bathrooms_total": null,
+    "available_until": null,
+    "contract_duration_months": null,
+    "housemates_gender": "UNKNOWN",
+    "last_verified": "",
+    "hard_filter_result": "PASS",
+    "tier": "?",
+    "score": 42,
+    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "balcony": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "dishwasher": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "heating": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_checked",
+      "reasoning": ""
+    },
+    "private_bathroom": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_found",
+      "reasoning": ""
+    },
+    "air_conditioning": {
+      "value": "TRUE",
+      "confidence": 0.95,
+      "source": "description:aria condizionata",
+      "reasoning": ""
+    },
+    "wifi": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "washing_machine": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:lavatrice",
+      "reasoning": ""
+    },
+    "furnished": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "garden": {
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "elevator": {
+      "value": "TRUE",
+      "confidence": 0.9,
+      "source": "description:ascensore",
+      "reasoning": ""
+    },
+    "bills_evidence": {
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
+      "reasoning": ""
+    },
+    "bills_included": []
   }
 ]
