@@ -4523,8 +4523,8 @@
     "zone": "Pisa",
     "rent": null,
     "total_monthly_cost": null,
-    "bedrooms_total": null,
-    "housemates_total": null,
+    "bedrooms_total": 4,
+    "housemates_total": 2,
     "room_type": "private_room",
     "scraped_at": "2026-09-03T00:30:04.378236",
     "notes": "",
@@ -4534,16 +4534,16 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 35,
-    "score_explanation": "Private bath (+30) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "score": 36,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . WiFi (+3) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4564,20 +4564,20 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.9,
+      "source": "text:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.9,
+      "source": "text:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.85,
+      "source": "text:wifi",
       "reasoning": ""
     },
     "washing_machine": {
@@ -4588,8 +4588,8 @@
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.9,
+      "source": "text:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -4599,9 +4599,9 @@
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "UNKNOWN",
+      "confidence": 0.3,
+      "source": "not_mentioned",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -4621,7 +4621,7 @@
     "zone": "Pisa",
     "rent": null,
     "total_monthly_cost": null,
-    "bedrooms_total": null,
+    "bedrooms_total": 12,
     "housemates_total": null,
     "room_type": "private_room",
     "scraped_at": "2026-09-03T00:30:09.783394",
@@ -4632,16 +4632,16 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
-    "tier": "A",
-    "score": 56,
-    "score_explanation": "Private bath (+30) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills included (+8)",
+    "hard_filter_result": "REJECT:too_many_bedrooms_12",
+    "tier": "B",
+    "score": 46,
+    "score_explanation": "Private bath (+30) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4662,55 +4662,53 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:spese incluse",
+      "value": "UNKNOWN",
+      "confidence": 0.4,
+      "source": "not_mentioned",
       "reasoning": ""
     },
-    "bills_included": [
-      "All bills"
-    ]
+    "bills_included": []
   },
   {
     "id": "c954243063",
@@ -4721,8 +4719,8 @@
     "zone": "Pisa",
     "rent": null,
     "total_monthly_cost": null,
-    "bedrooms_total": null,
-    "housemates_total": null,
+    "bedrooms_total": 3,
+    "housemates_total": 3,
     "room_type": "private_room",
     "scraped_at": "2026-09-03T00:30:15.010746",
     "notes": "",
@@ -4738,10 +4736,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_0_room_available",
     "tier": "?",
-    "score": 18,
-    "score_explanation": "Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 26,
+    "score_explanation": "3 beds — ideal (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4763,43 +4761,43 @@
     "private_bathroom": {
       "value": "FALSE",
       "confidence": 0.9,
-      "source": "description:bagno in comune",
+      "source": "text:bagno in comune",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:terrazzo",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -4819,7 +4817,7 @@
     "zone": "Pisa",
     "rent": null,
     "total_monthly_cost": null,
-    "bedrooms_total": null,
+    "bedrooms_total": 4,
     "housemates_total": null,
     "room_type": "private_room",
     "scraped_at": "2026-09-03T00:30:20.232436",
@@ -4830,16 +4828,16 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 35,
-    "score_explanation": "Private bath (+30) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "score": 36,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . WiFi (+3) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4860,20 +4858,20 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
@@ -4884,8 +4882,8 @@
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.9,
+      "source": "text:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -4895,9 +4893,9 @@
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -4964,8 +4962,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -4976,14 +4974,14 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -4994,8 +4992,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5026,8 +5024,8 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
@@ -5056,32 +5054,32 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -5092,8 +5090,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5160,8 +5158,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -5172,26 +5170,26 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:terrazzo",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5230,8 +5228,8 @@
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 28,
-    "score_explanation": "Great value EUR360/mo (+15) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 26,
+    "score_explanation": "Great value EUR360/mo (+15) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5258,14 +5256,14 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
@@ -5282,14 +5280,14 @@
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5328,8 +5326,8 @@
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 31,
+    "score_explanation": "Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5356,38 +5354,38 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5426,8 +5424,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR400/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 31,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR400/mo (+15) . Washer (+5) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5454,8 +5452,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -5466,26 +5464,26 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
       "confidence": 0.85,
-      "source": "description:balcone",
+      "source": "text:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5524,8 +5522,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 36,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 34,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5552,38 +5550,38 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
       "confidence": 0.85,
-      "source": "description:balcone",
+      "source": "text:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5620,7 +5618,7 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_room_available",
     "tier": "?",
     "score": 40,
     "score_explanation": "3 beds — ideal (+10) . Great value EUR450/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
@@ -5650,8 +5648,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -5662,26 +5660,26 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:arredato",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5712,16 +5710,16 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "A",
-    "score": 70,
-    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . Great value EUR600/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 68,
+    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . Great value EUR600/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5742,44 +5740,44 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5818,8 +5816,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 25,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "score": 23,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5846,8 +5844,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -5858,14 +5856,14 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -5875,9 +5873,9 @@
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -5916,8 +5914,8 @@
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 31,
+    "score_explanation": "Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5944,38 +5942,38 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:terrazzo",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6042,26 +6040,26 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -6072,8 +6070,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6140,26 +6138,26 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -6170,8 +6168,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6208,7 +6206,7 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_room_available",
     "tier": "?",
     "score": 36,
     "score_explanation": "4 beds — acceptable (+3) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
@@ -6238,38 +6236,38 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6336,38 +6334,38 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:terrazzo",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6407,8 +6405,8 @@
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 31,
+    "score_explanation": "Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6435,38 +6433,38 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:terrazzo",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6503,10 +6501,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_room_available",
     "tier": "?",
-    "score": 35,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "score": 33,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6533,26 +6531,26 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -6562,9 +6560,9 @@
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6595,16 +6593,16 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_9",
     "tier": "A",
-    "score": 63,
-    "score_explanation": "Private bath (+30) . Great value EUR380/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 61,
+    "score_explanation": "Private bath (+30) . Great value EUR380/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6625,44 +6623,44 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6693,16 +6691,16 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_9",
     "tier": "A",
-    "score": 63,
-    "score_explanation": "Private bath (+30) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 61,
+    "score_explanation": "Private bath (+30) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6723,44 +6721,44 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6797,10 +6795,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:only_1_room_available",
     "tier": "?",
-    "score": 32,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "score": 30,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR350/mo (+15) . Washer (+5) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6827,8 +6825,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -6839,14 +6837,14 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -6856,9 +6854,9 @@
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6925,26 +6923,26 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -6955,8 +6953,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -6995,8 +6993,8 @@
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_6",
     "tier": "?",
-    "score": 28,
-    "score_explanation": "Great value EUR600/mo (+15) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "score": 26,
+    "score_explanation": "Great value EUR600/mo (+15) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7023,14 +7021,14 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
@@ -7040,21 +7038,21 @@
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
-      "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "value": "FALSE",
+      "confidence": 0.95,
+      "source": "li:senza ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -7085,8 +7083,8 @@
     "latitude": null,
     "longitude": null,
     "utilities_monthly": null,
-    "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathroom_ratio": 2.0,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
@@ -7115,20 +7113,20 @@
     },
     "private_bathroom": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:bagno privato",
+      "confidence": 0.98,
+      "source": "li:bagno privato",
       "reasoning": ""
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:connessione a internet",
+      "confidence": 0.95,
+      "source": "li:internet",
       "reasoning": ""
     },
     "washing_machine": {
@@ -7138,21 +7136,21 @@
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
       "value": "TRUE",
-      "confidence": 0.85,
-      "source": "description:giardino",
+      "confidence": 0.95,
+      "source": "li:garden",
       "reasoning": ""
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -7219,8 +7217,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -7231,14 +7229,14 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -7249,8 +7247,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -7317,8 +7315,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -7329,8 +7327,8 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
@@ -7347,8 +7345,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
@@ -7415,8 +7413,8 @@
     },
     "air_conditioning": {
       "value": "TRUE",
-      "confidence": 0.95,
-      "source": "description:aria condizionata",
+      "confidence": 0.98,
+      "source": "li:aria condizionata",
       "reasoning": ""
     },
     "wifi": {
@@ -7427,14 +7425,14 @@
     },
     "washing_machine": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:lavatrice",
+      "confidence": 0.95,
+      "source": "li:lavatrice",
       "reasoning": ""
     },
     "furnished": {
-      "value": "UNKNOWN",
-      "confidence": 0.4,
-      "source": "not_mentioned",
+      "value": "TRUE",
+      "confidence": 0.98,
+      "source": "li:arredato",
       "reasoning": ""
     },
     "garden": {
@@ -7445,8 +7443,8 @@
     },
     "elevator": {
       "value": "TRUE",
-      "confidence": 0.9,
-      "source": "description:ascensore",
+      "confidence": 0.95,
+      "source": "li:ascensore",
       "reasoning": ""
     },
     "bills_evidence": {
