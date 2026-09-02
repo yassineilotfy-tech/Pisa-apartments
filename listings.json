@@ -4927,15 +4927,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
-    "tier": "?",
-    "score": 22,
-    "score_explanation": "Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 52,
+    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4955,10 +4955,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5123,15 +5123,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 40,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR480/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 70,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR480/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5151,10 +5151,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5221,15 +5221,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
-    "tier": "?",
-    "score": 26,
-    "score_explanation": "Great value EUR360/mo (+15) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 56,
+    "score_explanation": "Private bath (+30) . Great value EUR360/mo (+15) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5249,10 +5249,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5319,15 +5319,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
-    "tier": "?",
-    "score": 31,
-    "score_explanation": "Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 61,
+    "score_explanation": "Private bath (+30) . Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5347,10 +5347,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5417,15 +5417,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 31,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR400/mo (+15) . Washer (+5) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 61,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR400/mo (+15) . Washer (+5) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5445,10 +5445,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5515,15 +5515,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 34,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 64,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5543,10 +5543,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5613,15 +5613,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_room_available",
-    "tier": "?",
-    "score": 40,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR450/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 70,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR450/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5641,10 +5641,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5809,15 +5809,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 23,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 53,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5837,10 +5837,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -5907,15 +5907,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
-    "tier": "?",
-    "score": 31,
-    "score_explanation": "Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 61,
+    "score_explanation": "Private bath (+30) . Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5935,10 +5935,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6005,15 +6005,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 28,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR300/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 58,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR300/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6033,10 +6033,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6103,15 +6103,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 35,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR200/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 65,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR200/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6131,10 +6131,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6201,15 +6201,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_room_available",
-    "tier": "?",
-    "score": 36,
-    "score_explanation": "4 beds — acceptable (+3) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 66,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6229,10 +6229,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6299,15 +6299,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
-    "tier": "?",
-    "score": 33,
-    "score_explanation": "Great value EUR330/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . Great value EUR330/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6327,10 +6327,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6398,15 +6398,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_5",
-    "tier": "?",
-    "score": 31,
-    "score_explanation": "Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 61,
+    "score_explanation": "Private bath (+30) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6426,10 +6426,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6496,15 +6496,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_room_available",
-    "tier": "?",
-    "score": 33,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6524,10 +6524,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6790,15 +6790,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_room_available",
-    "tier": "?",
-    "score": 30,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR350/mo (+15) . Washer (+5) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 60,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR350/mo (+15) . Washer (+5) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6818,10 +6818,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6888,15 +6888,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 35,
-    "score_explanation": "3 beds — ideal (+10) . Great value EUR230/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 65,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR230/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6916,10 +6916,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -6986,15 +6986,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_6",
-    "tier": "?",
-    "score": 26,
-    "score_explanation": "Great value EUR600/mo (+15) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 56,
+    "score_explanation": "Private bath (+30) . Great value EUR600/mo (+15) . WiFi (+3) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7014,10 +7014,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -7182,15 +7182,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 22,
-    "score_explanation": "Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 52,
+    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7210,10 +7210,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -7280,15 +7280,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "REJECT:too_many_bedrooms_39",
-    "tier": "?",
-    "score": 22,
-    "score_explanation": "Great value EUR330/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 52,
+    "score_explanation": "Private bath (+30) . Great value EUR330/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7308,10 +7308,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
@@ -7378,15 +7378,15 @@
     "longitude": null,
     "utilities_monthly": null,
     "bathroom_ratio": null,
-    "bathrooms_total": null,
+    "bathrooms_total": 1,
     "available_until": null,
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "?",
-    "score": 22,
-    "score_explanation": "Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 52,
+    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7406,10 +7406,10 @@
       "reasoning": ""
     },
     "private_bathroom": {
-      "value": "UNKNOWN",
-      "confidence": 0.3,
-      "source": "not_found",
-      "reasoning": ""
+      "value": "TRUE",
+      "confidence": 0.6,
+      "source": "inferred:no_shared_mention",
+      "reasoning": "Idealista room listing without shared bathroom mention"
     },
     "air_conditioning": {
       "value": "TRUE",
