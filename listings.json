@@ -98,8 +98,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 55,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR500/mo (+15) . 13min walk (+10) . Washer (+5) . Bills incl (+5) . 2 bedrooms (+5)",
+    "score": 53,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 2 beds — good (+7) . Great value EUR500/mo (+15) . 13min walk UniPi (+10) . Washer (+5) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -205,9 +205,9 @@
     "scraped_at": "2026-09-01T20:46:27.178923",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "B",
-    "score": 76,
-    "score_explanation": "Private bath (+30) . Great value EUR370/mo (+15) . 16min walk (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Bills incl (+5) . 3 bedrooms (+5)",
+    "tier": "S",
+    "score": 89,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR370/mo (+15) . 16min walk UniPi (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -307,8 +307,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 30,
-    "score_explanation": "Shared bath 2.0:1 (+15) . 26min walk (+5) . Washer (+5) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 28,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 3 beds — ideal (+10) . 26min walk UniPi (+5) . Washer (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -409,9 +409,9 @@
     "scraped_at": "2026-09-01T20:46:56.271980",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_bedroom",
-    "tier": "B",
-    "score": 63,
-    "score_explanation": "Private bath (+30) . Great value EUR330/mo (+15) . 22min walk (+5) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5)",
+    "tier": "A",
+    "score": 71,
+    "score_explanation": "Private bath (+30) . Great value EUR330/mo (+15) . 22min walk UniPi (+5) . Washer (+5) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -517,9 +517,9 @@
     "scraped_at": "2026-09-01T20:47:10.482042",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_bedroom",
-    "tier": "B",
-    "score": 58,
-    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5) . Far 36min (-5)",
+    "tier": "A",
+    "score": 71,
+    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -625,9 +625,9 @@
     "scraped_at": "2026-09-01T20:47:25.866446",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "B",
-    "score": 63,
-    "score_explanation": "Private bath (+30) . Great value EUR600/mo (+15) . 25min walk (+5) . WiFi (+3) . Bills incl (+5) . 2 bedrooms (+5)",
+    "tier": "A",
+    "score": 68,
+    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . Great value EUR600/mo (+15) . 25min walk UniPi (+5) . WiFi (+3) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -729,8 +729,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 53,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR400/mo (+15) . 14min walk (+10) . Garden/balcony (+3) . Bills incl (+5) . 2 bedrooms (+5)",
+    "score": 56,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 2 beds — good (+7) . Great value EUR400/mo (+15) . 14min walk UniPi (+10) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -837,8 +837,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 83,
-    "score_explanation": "Shared bath 2.0:1 (+15) . AC (+20) . Great value EUR600/mo (+15) . 8min walk (+15) . Washer (+5) . WiFi (+3) . Bills incl (+5) . 2 bedrooms (+5)",
+    "score": 61,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 2 beds — good (+7) . Great value EUR600/mo (+15) . 8min walk UniPi (+15) . Washer (+5) . WiFi (+3) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -944,9 +944,9 @@
     "scraped_at": "2026-09-01T20:48:11.321648",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_bedroom",
-    "tier": "B",
-    "score": 56,
-    "score_explanation": "Private bath (+30) . Great value EUR400/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Bills incl (+5) . Far 35min (-5)",
+    "tier": "A",
+    "score": 69,
+    "score_explanation": "Private bath (+30) . Great value EUR400/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1048,8 +1048,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 55,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR400/mo (+15) . 14min walk (+10) . Washer (+5) . Bills incl (+5) . 2 bedrooms (+5)",
+    "score": 53,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 2 beds — good (+7) . Great value EUR400/mo (+15) . 14min walk UniPi (+10) . Washer (+5) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 63,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR600/mo (+15) . 16min walk (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5) . 2 bedrooms (+5)",
+    "score": 66,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 2 beds — good (+7) . Great value EUR600/mo (+15) . 16min walk UniPi (+10) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1258,8 +1258,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 58,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR800/mo (+15) . 18min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 3 bedrooms (+5)",
+    "score": 64,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 3 beds — ideal (+10) . Great value EUR800/mo (+15) . 18min walk UniPi (+10) . Washer (+5) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1364,9 +1364,9 @@
     "scraped_at": "2026-09-01T20:49:10.555140",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "B",
-    "score": 65,
-    "score_explanation": "Private bath (+30) . 6min walk (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills incl (+5) . 2 bedrooms (+5)",
+    "tier": "A",
+    "score": 70,
+    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . 6min walk UniPi (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1468,8 +1468,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 58,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR320/mo (+15) . 13min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 3 bedrooms (+5)",
+    "score": 64,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 3 beds — ideal (+10) . Great value EUR320/mo (+15) . 13min walk UniPi (+10) . Washer (+5) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1571,8 +1571,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 55,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR680/mo (+15) . 14min walk (+10) . Washer (+5) . Bills incl (+5) . 2 bedrooms (+5)",
+    "score": 53,
+    "score_explanation": "Shared bath 2.0:1 (+8) . 2 beds — good (+7) . Great value EUR680/mo (+15) . 14min walk UniPi (+10) . Washer (+5) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1672,8 +1672,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 70,
-    "score_explanation": "Private bath (+30) . Great value EUR420/mo (+15) . 4min walk (+15) . Washer (+5) . 2 bedrooms (+5) . Bills unknown (risk)",
+    "score": 72,
+    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . Great value EUR420/mo (+15) . 4min walk UniPi (+15) . Washer (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -1772,9 +1772,9 @@
     "scraped_at": "2026-09-01T20:50:10.530042",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_bedroom",
-    "tier": "B",
-    "score": 63,
-    "score_explanation": "Private bath (+30) . Great value EUR300/mo (+15) . 14min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills unknown (risk)",
+    "tier": "A",
+    "score": 68,
+    "score_explanation": "Private bath (+30) . Great value EUR300/mo (+15) . 14min walk UniPi (+10) . Washer (+5) . Garden/balcony (+8) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -1876,8 +1876,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "C",
-    "score": 61,
-    "score_explanation": "Shared bath 0.7:1 (+15) . Great value EUR300/mo (+15) . 17min walk (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Bills incl (+5) . 4 bedrooms (+5)",
+    "score": 67,
+    "score_explanation": "Good shared bath 0.7:1 (+15) . 4 beds — acceptable (+3) . Great value EUR300/mo (+15) . 17min walk UniPi (+10) . Washer (+5) . WiFi (+3) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -1977,8 +1977,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "B",
-    "score": 60,
-    "score_explanation": "Private bath (+30) . Great value EUR280/mo (+15) . 11min walk (+10) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 65,
+    "score_explanation": "Private bath (+30) . 3 beds — ideal (+10) . Great value EUR280/mo (+15) . 11min walk UniPi (+10) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -2079,9 +2079,9 @@
     "scraped_at": "2026-09-01T20:50:54.370940",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "B",
-    "score": 68,
-    "score_explanation": "Private bath (+30) . Great value EUR350/mo (+15) . 26min walk (+5) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 4 bedrooms (+5)",
+    "tier": "A",
+    "score": 74,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR350/mo (+15) . 26min walk UniPi (+5) . Washer (+5) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -2182,9 +2182,9 @@
     "scraped_at": "2026-09-01T20:51:10.150331",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "B",
-    "score": 73,
-    "score_explanation": "Private bath (+30) . Great value EUR600/mo (+15) . 17min walk (+10) . Washer (+5) . Garden/balcony (+3) . Bills incl (+5) . 2 bedrooms (+5)",
+    "tier": "S",
+    "score": 83,
+    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . Great value EUR600/mo (+15) . 17min walk UniPi (+10) . Washer (+5) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -2283,9 +2283,9 @@
     "scraped_at": "2026-09-01T20:51:25.686886",
     "last_verified": "",
     "hard_filter_result": "REJECT:only_1_bedroom",
-    "tier": "A",
-    "score": 85,
-    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR200/mo (+15) . 9min walk (+15) . Washer (+5) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 65,
+    "score_explanation": "Private bath (+30) . Great value EUR200/mo (+15) . 9min walk UniPi (+15) . Washer (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -2385,10 +2385,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:51:40.173199",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_6",
     "tier": "C",
-    "score": 65,
-    "score_explanation": "Shared bath 1.0:1 (+15) . Great value EUR380/mo (+15) . 7min walk (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5) . 6 bedrooms (+5)",
+    "score": 68,
+    "score_explanation": "Good shared bath 1.0:1 (+15) . Great value EUR380/mo (+15) . 7min walk UniPi (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -2486,10 +2486,10 @@
     "photos": [],
     "scraped_at": "2026-09-01T20:51:54.927508",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "C",
-    "score": 55,
-    "score_explanation": "Shared bath 2.0:1 (+15) . Great value EUR250/mo (+15) . 9min walk (+15) . Washer (+5) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 43,
+    "score_explanation": "Shared bath 2.0:1 (+8) . Great value EUR250/mo (+15) . 9min walk UniPi (+15) . Washer (+5) . Bills unknown (risk)",
     "notes": ""
   },
   {
@@ -3095,7 +3095,7 @@
     "hard_filter_result": "PASS",
     "tier": "?",
     "score": 0,
-    "score_explanation": "No data",
+    "score_explanation": "Insufficient data",
     "notes": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "hard_filter_result": "PASS",
     "tier": "?",
     "score": 0,
-    "score_explanation": "No data",
+    "score_explanation": "Insufficient data",
     "notes": ""
   },
   {
@@ -3498,8 +3498,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 21,
-    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3) . Garden/balcony (+3)",
+    "score": 26,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3) . Garden/balcony (+8)",
     "notes": ""
   },
   {
@@ -4005,8 +4005,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 28,
-    "score_explanation": "AC (+20) . WiFi (+3) . Bills incl (+5)",
+    "score": 11,
+    "score_explanation": "WiFi (+3) . Bills included (+8)",
     "notes": ""
   },
   {
@@ -4207,8 +4207,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 38,
-    "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4308,8 +4308,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 38,
-    "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4510,8 +4510,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 38,
-    "score_explanation": "AC (+20) . Great value EUR650/mo (+15) . WiFi (+3)",
+    "score": 18,
+    "score_explanation": "Great value EUR650/mo (+15) . WiFi (+3)",
     "notes": ""
   },
   {
@@ -4541,9 +4541,9 @@
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "A",
-    "score": 55,
-    "score_explanation": "Private bath (+30) . AC (+20) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 35,
+    "score_explanation": "Private bath (+30) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4640,8 +4640,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "A",
-    "score": 68,
-    "score_explanation": "Private bath (+30) . AC (+20) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills incl (+5)",
+    "score": 56,
+    "score_explanation": "Private bath (+30) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills included (+8)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4740,8 +4740,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 33,
-    "score_explanation": "AC (+20) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . Bills unknown (risk)",
+    "score": 18,
+    "score_explanation": "Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4837,9 +4837,9 @@
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "A",
-    "score": 55,
-    "score_explanation": "Private bath (+30) . AC (+20) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 35,
+    "score_explanation": "Private bath (+30) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -4934,10 +4934,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 47,
-    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 22,
+    "score_explanation": "Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5033,9 +5033,9 @@
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
     "hard_filter_result": "PASS",
-    "tier": "A",
-    "score": 80,
-    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "tier": "B",
+    "score": 58,
+    "score_explanation": "Private bath (+30) . 4 beds — acceptable (+3) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5132,8 +5132,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR480/mo (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 40,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR480/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5228,10 +5228,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 48,
-    "score_explanation": "AC (+20) . Great value EUR360/mo (+15) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 28,
+    "score_explanation": "Great value EUR360/mo (+15) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5326,10 +5326,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 53,
-    "score_explanation": "AC (+20) . Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 33,
+    "score_explanation": "Great value EUR360/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5426,8 +5426,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR400/mo (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "score": 33,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR400/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5524,8 +5524,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 53,
-    "score_explanation": "AC (+20) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "score": 36,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5622,8 +5622,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR450/mo (+15) . Washer (+5) . Garden/balcony (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 40,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR450/mo (+15) . Washer (+5) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5720,8 +5720,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "A",
-    "score": 83,
-    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR600/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 2 bedrooms (+5) . Bills unknown (risk)",
+    "score": 70,
+    "score_explanation": "Private bath (+30) . 2 beds — good (+7) . Great value EUR600/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5818,8 +5818,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 47,
-    "score_explanation": "AC (+20) . Great value EUR500/mo (+15) . Washer (+5) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "score": 25,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR500/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -5914,10 +5914,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 53,
-    "score_explanation": "AC (+20) . Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 33,
+    "score_explanation": "Great value EUR320/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6014,8 +6014,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR300/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "score": 28,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR300/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6112,8 +6112,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR200/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 35,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR200/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6210,8 +6210,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 53,
-    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 4 bedrooms (+5) . Bills unknown (risk)",
+    "score": 36,
+    "score_explanation": "4 beds — acceptable (+3) . Great value EUR350/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6306,10 +6306,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 53,
-    "score_explanation": "AC (+20) . Great value EUR330/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 33,
+    "score_explanation": "Great value EUR330/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6405,10 +6405,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_5",
     "tier": "?",
-    "score": 53,
-    "score_explanation": "AC (+20) . Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 5 bedrooms (+5) . Bills unknown (risk)",
+    "score": 33,
+    "score_explanation": "Great value EUR500/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6505,8 +6505,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 35,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR260/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6601,10 +6601,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_9",
     "tier": "A",
-    "score": 83,
-    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR380/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 9 bedrooms (+5) . Bills unknown (risk)",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . Great value EUR380/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6699,10 +6699,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_9",
     "tier": "A",
-    "score": 83,
-    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 9 bedrooms (+5) . Bills unknown (risk)",
+    "score": 63,
+    "score_explanation": "Private bath (+30) . Great value EUR550/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6799,8 +6799,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 47,
-    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 32,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6897,8 +6897,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 50,
-    "score_explanation": "AC (+20) . Great value EUR230/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . 3 bedrooms (+5) . Bills unknown (risk)",
+    "score": 35,
+    "score_explanation": "3 beds — ideal (+10) . Great value EUR230/mo (+15) . Washer (+5) . WiFi (+3) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -6993,10 +6993,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_6",
     "tier": "?",
-    "score": 48,
-    "score_explanation": "AC (+20) . Great value EUR600/mo (+15) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 6 bedrooms (+5) . Bills unknown (risk)",
+    "score": 28,
+    "score_explanation": "Great value EUR600/mo (+15) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7091,10 +7091,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
-    "tier": "A",
-    "score": 78,
-    "score_explanation": "Private bath (+30) . AC (+20) . Great value EUR700/mo (+15) . WiFi (+3) . Garden/balcony (+3) . Lift (+2) . 6 bedrooms (+5) . Bills unknown (risk)",
+    "hard_filter_result": "REJECT:too_many_bedrooms_6",
+    "tier": "B",
+    "score": 58,
+    "score_explanation": "Private bath (+30) . Great value EUR700/mo (+15) . WiFi (+3) . Lift (+2) . Garden/balcony (+8) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7191,8 +7191,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 42,
-    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "score": 22,
+    "score_explanation": "Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7287,10 +7287,10 @@
     "contract_duration_months": null,
     "housemates_gender": "UNKNOWN",
     "last_verified": "",
-    "hard_filter_result": "PASS",
+    "hard_filter_result": "REJECT:too_many_bedrooms_39",
     "tier": "?",
-    "score": 47,
-    "score_explanation": "AC (+20) . Great value EUR330/mo (+15) . Washer (+5) . Lift (+2) . 39 bedrooms (+5) . Bills unknown (risk)",
+    "score": 22,
+    "score_explanation": "Great value EUR330/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
@@ -7387,8 +7387,8 @@
     "last_verified": "",
     "hard_filter_result": "PASS",
     "tier": "?",
-    "score": 42,
-    "score_explanation": "AC (+20) . Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
+    "score": 22,
+    "score_explanation": "Great value EUR350/mo (+15) . Washer (+5) . Lift (+2) . Bills unknown (risk)",
     "balcony": {
       "value": "UNKNOWN",
       "confidence": 0.3,
